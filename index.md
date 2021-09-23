@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Molecular Electronic Structure Group
+# Serif - A Jekyll Business Theme.
 
-A website for the Molecular Electronic Structure group that will contain lots of interesting stuff.
+Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
