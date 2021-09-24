@@ -10,4 +10,4 @@ show_call_box: true
 
 # Molecular Electronic Structure Group
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+bla, bla types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
