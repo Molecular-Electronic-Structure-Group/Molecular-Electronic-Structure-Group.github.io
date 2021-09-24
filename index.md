@@ -10,4 +10,4 @@ show_call_box: true
 
 # Molecular Electronic Structure Group
 
-bla, bla types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A research group at the Donostia International Physics Center (DIPC)
