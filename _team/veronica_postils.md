@@ -1,9 +1,10 @@
 ---
-title: "Tamara Ells"
-date: 2018-12-20T13:44:55+10:00
+title: "Verònica Postils"
+date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/michael-dam-258165-unsplash.jpg"
-jobtitle: "UI Designer"
+image: ""
+jobtitle: "Post-doc"
+linkedinurl: "https://www.linkedin.com/example2"
 weight: 4
 ---
 
