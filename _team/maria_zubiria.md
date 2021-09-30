@@ -2,7 +2,7 @@
 title: "Maria Zubiria"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: ""
+image: "images/team/placeholder.jpg"
 jobtitle: "PhD student"
 linkedinurl: ""
 weight: 7

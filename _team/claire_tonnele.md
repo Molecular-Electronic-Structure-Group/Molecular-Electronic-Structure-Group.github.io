@@ -2,7 +2,7 @@
 title: "Claire Tonnelé"
 date: 2018-12-20T13:45:06+10:00
 draft: false
-image: ""
+image: "images/team/placeholder.jpg"
 jobtitle: "Post-doc"
 weight: 2
 ---
