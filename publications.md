@@ -15,6 +15,77 @@ New J. Phys. **23**, 093027 (2021)
 ## 2020
 
 ## 2019
+**63**. A. S. Hacker, M. Pavano, J. E. Wood, H. Hashimoto, K. M. D’Ambrosio, C. K. Frederickson, J. L. Zafra, C. J. Gómez-García, V. Postils, A. Ringer McDonald, D. Casanova, D. K. Frantz, J. Casado <br>
+_[Fluoreno[2,1-a]fluorene: an ortho-naphthoquinodimethane-based system with partial diradical character](https://pubs.rsc.org/en/content/articlelanding/2019/CC/C9CC07474K)_ <br>
+Chem. Commun. **55**, 14186 (2019)
+
+**62**. J. Kim, J. Oh, S. Park, J. L. Zafra, J. R. DeFrancisco, D. Casanova, M. Lim, J. D. Tovar, J. Casado, D. Kim <br>
+_[Two-electron transfer stabilized by excited-state aromatization](https://www.nature.com/articles/s41467-019-12986-w)_ <br>
+Nat. Commun. **10**, 4983 (2019)
+
+**61**. Z. Li, T. Y. Gopalakrishna, Y. Han, Y. Gu, L. Yuan, W. Zeng, D. Casanova, J. Wu <br>
+_[[6]Cyclo-para-phenylmethine: An Analog of Benzene Showing Global Aromaticity and Open-Shell Diradical Character](https://pubs.acs.org/doi/10.1021/jacs.9b09780)_ <br>
+J. Am. Chem. Soc. **141**, 16266 (2019)
+
+**60**. S. J. Grabowski, D. Casanova, E. Formoso, J. M. Ugalde <br>
+_[Tetravalent Oxygen and Sulphur Centres Mediated by Carborane Superacid: Theoretical Analysis](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201900687)_ <br>
+ChemPhysChem **20**, 2443 (2019)
+
+**59**. J. M. Matxain, J. M. Ugalde, V. Mujica, S. I. Allec, B. M. Wong, D. Casanova <br>
+_[Chirality Induced Spin Selectivity of Photoexcited Electrons in Carbon-Sulfur [n]Helicenes](https://chemistry-europe.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fcptc.201900128)_ <br>
+ChemPhotoChem **3**, 770 (2019)
+
+**58**. C. D. Cruz, J. Yuan, C. Climent, N. T. Tierce, P. R. Christensen, E. L. Chronister, D. Casanova, M. O. Wolf, C. J. Bardeen <br>
+_[Using sulfur bridge oxidation to control electronic coupling and photochemistry in covalent anthracene dimers](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05598J)_ <br>
+Chem. Sci. **10**, 7561 (2019)
+
+**57**. C. Zhang, S. Medina Rivero, W. Liu, D. Casanova, X. Zhu, J. Casado <br>
+_[Stable Cross-Conjugated Tetrathiophene Diradical](https://onlinelibrary.wiley.com/doi/10.1002/anie.201904153)_ <br>
+Angew. Chem. Int. Ed. **58**, 11291 (2019)
+
+**56**. A. Carreras, S. Conejeros, A. Camón, A. García, N. Casañ-Pastor, P. Alemany, E. Canadell <br>
+_[Charge Delocalization, Oxidation States, and Silver Mobility in the Mixed Silver–Copper Oxide AgCuO2](https://pubs.acs.org/doi/10.1021/acs.inorgchem.9b00662)_ <br>
+Inorg. Chem. **58**, 7026 (2019)
+
+**55**. A. Carreras, L. Fuligni, P. Alemany, M. Llunell, J. Maria Bofill, W. Quapp <br>
+_[Conformational analysis of enantiomerization coupled to internal rotation in triptycyl-n-helicenes](https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP07164K)_ <br>
+Phys. Chem. Chem. Phys. **21**, 11395 (2019)
+
+**54**. M. E. Sandoval-Salinas, A. Carreras, J. Casado, D. Casanova <br>
+_[Singlet fission in spiroconjugated dimers](https://aip.scitation.org/doi/10.1063/1.5097048)_ <br>
+J. Chem. Phys. **150**, 204306 (2019)
+
+**53**. M. E. Sandoval-Salinas, A. Carreras, D. Casanova <br>
+_[Triangular graphene nanofragments: open-shell character and doping](https://pubs.rsc.org/en/content/articlelanding/2019/CP/C9CP00641A)_ <br>
+Phys. Chem. Chem. Phys. **21**, 9069 (2019)
+
+**52**. D. Yuan, D. Huang, S. Medina Rivero, A. Carreras, C. Zhang, Y. Zou, X. Jiao, C. R. McNeill, X. Zhu, C. Di, D. Zhu, D. Casanova, J. Casado <br>
+_[Cholesteric Aggregation at the Quinoidal-to-Diradical Border Enabled Stable n-Doped Conductor](https://www.sciencedirect.com/science/article/pii/S2451929419300671)_ <br>
+Chem **5**, 964 (2019)
+
+**51**. D. López-Carballeira, M. Zubiria, D. Casanova, F. Ruipérez <br>
+_[Improvement of the electrochemical and singlet fission properties of anthraquinones by modification of the diradical character](https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP07358A)_ <br>
+Phys. Chem. Chem. Phys. **21**, 7941 (2019)
+
+**50**. A. Carreras, O. Uranga-Barandiaran, F. Castet, D. Casanova <br>
+_[Photophysics of Molecular Aggregates from Excited State Diabatization](https://pubs.acs.org/doi/10.1021/acs.jctc.9b00019)_ <br>
+J. Chem. Theory Comput. **15**, 2320 (2019)
+
+**49**. M. M. Siddiqui, S. K. Sarkar, S. Sinhababu, P. N. Ruth, R. Herbst-Irmer, D. Stalke, M. Ghosh, M. Fu, L. Zhao, D. Casanova, G. Frenking, B. Schwederski, W. Kaim, and H. W. Roesky <br>
+_[Isolation of Transient Acyclic Germanium(I) Radicals Stabilized by Cyclic Alkyl(amino) Carbenes](https://pubs.acs.org/doi/10.1021/jacs.8b13434)_ <br>
+J. Am. Chem. Soc. **141**, 1908 (2019)
+
+**48**. A. Pérez-Guardiola, R. Ortiz-Cano, M. E. Sandoval-Salinas, J. Fernández-Rossier, D. Casanova, A. J. Pérez-Jiménez and J. C. Sancho-García <br>
+_[From cyclic nanorings to single-walled carbon nanotubes: disclosing the evolution of their electronic structure with the help of theoretical methods](https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP06615A)_ <br>
+Phys. Chem. Chem. Phys. **21**, 2547 (2019)
+
+**47**. Y. Ni, M. E. Sandoval-Salinas, T. Tanaka, H. Phan, T. S. Herng, T. Y. Gopalakrishna, J. Ding, A. Osuka, D. Casanova, J. Wu <br>
+_[[n]Cyclo-para-biphenylmethine Polyradicaloids: [n]Annulene Analogs and Unusual Valence Tautomerization](https://www.sciencedirect.com/science/article/pii/S2451929418304455)_ <br>
+Chem **5**, 108 (2019)
+
+**46**. A. Carreras, E. Bernuz, X. Marugan, M. Llunell, P. Alemany <br>
+_[Effects of Temperature on the Shape and Symmetry of Molecules and Solids](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201801682)_ <br>
+Chem. Eur. J. **25**, 673 (2019)
 
 ## 2018
 **45**.  W. Li, J. Tang, D. Casanova, O. V. Prezhdo <br>
