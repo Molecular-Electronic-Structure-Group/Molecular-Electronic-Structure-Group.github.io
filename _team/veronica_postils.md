@@ -2,7 +2,7 @@
 title: "Verònica Postils"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: ""
+image: "images/team/placeholder.jpg"
 jobtitle: "Post-doc"
 linkedinurl: "https://www.linkedin.com/example2"
 weight: 4
