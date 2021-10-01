@@ -4,7 +4,8 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/david_casanova.jpg"
 jobtitle: "Principal Investigator"
-linkedinurl: "https://www.linkedin.com/"
+orcid: "https://orcid.org/0000-0002-8893-7089"
+researchid: "https://publons.com/researcher/1190522/david-casanova/"
 promoted: true
 weight: 1
 layout: team
