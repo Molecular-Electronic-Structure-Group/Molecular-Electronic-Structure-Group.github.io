@@ -13,9 +13,48 @@ _[GW approximation for open-shell molecules: a first-principles study](https://i
 New J. Phys. **23**, 093027 (2021)
 
 ## 2020
+**72** A. Carreras, H. Jiang, P. Pokhilko, A. I. Krylov, P. M. Zimmerman, D. Casanova <br>
+_[Calculation of spin–orbit couplings using RASCI spinless one-particle density matrices: 
+Theory and applications](https://aip.scitation.org/doi/10.1063/5.0029146)_ <br>
+J. Chem. Phys. **153**, 214107 (2020)
+
+**71** M. Lv, M. Yu, M. E. Sandoval‐Salinas, J. Xu, Z. Lei, D. Casanova, Y. Yang, J. Chen <br>
+_[Engineering the Charge‐Transfer State to Facilitate Spin–Orbit Charge Transfer Intersystem Crossing in Spirobis[anthracene]diones](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202009439)_ <br>
+Angew. Chem. Int. Ed. **59**, 22179-22184 (2020)
+
+**70** O. Uranga-Barandiaran, D. Casanova, F. Castet <br>
+_[Flavylium Fluorophores as Near-Infrared Emitters](https://doi.org/10.1002/cphc.202000544)_ <br>
+ChemPhysChem **21**, 2243-2248 (2020)
+
+**69** M. Zubiria-Ulacia, J. M. Matxain, D. Casanova <br>
+_[The role of CT excitations in PDI aggregates](https://doi.org/10.1039/D0CP02344B )_ <br>
+Phys. Chem. Chem. Phys. **22**, 15908-15918 (2020)
+
+**68** I. Rivilla, B. Aparicio, J. M. Bueno, D. Casanova, C. Tonnelé, Z. Freixa, P. Herrero, C. Rogero, J. I. Miranda, 
+R. M. Martínez-Ojeda, F. Monrabal, B. Olave, T. Shäfer, P. Artal, D. Nygren, F. P. Cossío, J. J. Gómez-Cadenas <br>
+_[Fluorescent bicolour sensor for low-background neutrinoless double β decay experiments](https://www.nature.com/articles/s41586-020-2431-5)_ <br>
+Nature **583**, 48-54 (2020)
+
+**67** J. He, D. Casanova, W-H. Fang, R. Long, O. V. Prezhdo <br>
+_[MAI Termination Favors Efficient Hole Extraction and Slow Charge Recombination
+at the MAPbI3/CuSCN Heterojunction](https://doi.org/10.1021/acs.jpclett.0c01467)_ <br>
+J. Phys. Chem. Lett. **11**, 4481-4489 (2020)
+
+**66** G. Salvitti, F. Negri, A. J. J. Pérez-Jiménez, E. San-Fabián, D. Casanova, J. C. Sancho-García <br>
+_[Investigating the (Poly)Radicaloid Nature of Real-World Organic Compounds with DFT-Based Methods](https://doi.org/10.1021/acs.jpca.0c01239)_ <br>
+J. Phys. Chem. A **124**, 3590-3600 (2020)
+
+**65** M. Catherin, O. Uranga-Barandiaran, A. Brosseau, R. Métivier, D. Canard, A. D’Aléo, D. Casanova, F. Castet, F. Fages <br>
+_[Exciton interactions, excimer formation, and [2pi+2pi] photodimerization in nonconjugated curcuminoid-BF2 dimers](https://doi.org/10.1002/chem.201905122)_ <br>
+Chem. Eur. J. **26**, 3818-3828 (2020)
+
+**64** D. Casanova, A. Krylov <br>
+_[Title: Spin-Flip Methods in Quantum Chemistry](https://doi.org/10.1039/C9CP06507E)_ <br>
+Phys. Chem. Chem. Phys. **22**, 4326-4342 (2020)
 
 ## 2019
-**63**. A. S. Hacker, M. Pavano, J. E. Wood, H. Hashimoto, K. M. D’Ambrosio, C. K. Frederickson, J. L. Zafra, C. J. Gómez-García, V. Postils, A. Ringer McDonald, D. Casanova, D. K. Frantz, J. Casado <br>
+**63**. A. S. Hacker, M. Pavano, J. E. Wood, H. Hashimoto, K. M. D’Ambrosio, C. K. Frederickson, J. L. Zafra, 
+C. J. Gómez-García, V. Postils, A. Ringer McDonald, D. Casanova, D. K. Frantz, J. Casado <br>
 _[Fluoreno[2,1-a]fluorene: an ortho-naphthoquinodimethane-based system with partial diradical character](https://pubs.rsc.org/en/content/articlelanding/2019/CC/C9CC07474K)_ <br>
 Chem. Commun. **55**, 14186 (2019)
 
