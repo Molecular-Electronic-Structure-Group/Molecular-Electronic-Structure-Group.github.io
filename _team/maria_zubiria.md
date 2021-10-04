@@ -5,7 +5,7 @@ draft: false
 image: "images/team/maria_zubiria.jpg"
 jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/"
-weight: 7
+weight: 6
 layout: team
 promoted: true
 ---

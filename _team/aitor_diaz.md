@@ -5,7 +5,7 @@ draft: false
 image: "images/team/placeholder.jpg"
 jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/"
-weight: 3
+weight: 8
 promoted: true
 ---
 

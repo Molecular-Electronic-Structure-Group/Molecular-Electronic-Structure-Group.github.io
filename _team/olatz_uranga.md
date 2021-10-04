@@ -5,7 +5,7 @@ draft: false
 image: "images/team/olatz_uranga.jpg"
 jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/"
-weight: 7
+weight: 5
 layout: team
 promoted: true
 ---

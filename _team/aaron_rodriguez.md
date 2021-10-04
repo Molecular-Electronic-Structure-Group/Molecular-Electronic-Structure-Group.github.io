@@ -5,7 +5,7 @@ draft: false
 image: "images/team/aaron_rodriguez.jpg"
 jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/"
-weight: 3
+weight: 7
 promoted: true
 ---
 
