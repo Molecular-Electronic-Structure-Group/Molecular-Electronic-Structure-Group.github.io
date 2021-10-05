@@ -1,8 +1,8 @@
 ---
-title: About
+title: Resources
 layout: page
-description: About
-bodyClass: page-about
+description: Resources
+bodyClass: page-resources
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
