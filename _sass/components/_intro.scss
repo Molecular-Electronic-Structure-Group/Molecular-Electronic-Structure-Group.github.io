@@ -45,3 +45,26 @@
   padding-top: 100px;
   padding-bottom: z0px;
 }
+
+h3 {
+  font-size: 30px;
+  font-family: $font-family-heading;
+  line-height: 1;
+  margin-bottom: -100px;
+  margin-top:-180px;
+  @include media-breakpoint-up(md) {
+    font-size: 32px;
+    line-height: 1;
+  }
+}
+
+h4 {
+  font-size: 30px;
+  font-family: $font-family-heading;
+  line-height: 1;
+  margin-top: -30px;
+  @include media-breakpoint-up(md) {
+    font-size: 32px;
+    line-height: 1;
+  }
+}
