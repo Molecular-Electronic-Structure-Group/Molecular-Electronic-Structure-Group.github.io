@@ -9,7 +9,7 @@ weight: 7
 promoted: true
 ---
 
-Models and methods development for strong electron correlations in the ground and excited states.
+Models and methods development for strong electron correlations in the ground and excited states of molecular systems.
 
 
 <br>My PhD's thesis is focused on the development of models/methods able to account for strong electron correlations in the ground and excited states of medium and large molecules. Current work is focused on efficient approximations to recover the missing dynamic electron correlation effects by merging wave function methods with DFT. Also, due to their importance for intersystem crossing (ISC), part of the work is dedicated to elucidating the role of spin-orbit coupling (SOC) in systems of interest.
