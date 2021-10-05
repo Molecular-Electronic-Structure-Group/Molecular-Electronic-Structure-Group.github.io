@@ -7,7 +7,7 @@ intro_image: "images/dipc4.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
-
+content:
 # Research Team
 We might include a group picture to the left ==>
 
