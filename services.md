@@ -7,6 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Research
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our research aims to develop new electronic structure models to tackle the study of electronic states of molecules.
+We apply these methodologies to the study of interesting photophysical processes with potential novel applications 
+in solar energy photoelectric conversion, lighting technologies and in those applications based on the absorption and/or 
+emission of light by molecular systems.
