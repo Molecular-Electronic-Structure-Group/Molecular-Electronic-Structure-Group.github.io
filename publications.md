@@ -97,7 +97,7 @@ Nature **583**, 48-54 (2020)
 
 **67** J. He, D. Casanova, W-H. Fang, R. Long, O. V. Prezhdo <br>
 _[MAI Termination Favors Efficient Hole Extraction and Slow Charge Recombination
-at the MAPbI3/CuSCN Heterojunction](https://doi.org/10.1021/acs.jpclett.0c01467)_ <br>
+at the MAPbI<sub>3</sub>/CuSCN Heterojunction](https://doi.org/10.1021/acs.jpclett.0c01467)_ <br>
 J. Phys. Chem. Lett. **11**, 4481-4489 (2020)
 
 **66** G. Salvitti, F. Negri, A. J. J. Pérez-Jiménez, E. San-Fabián, D. Casanova, J. C. Sancho-García <br>
@@ -105,7 +105,7 @@ _[Investigating the (Poly)Radicaloid Nature of Real-World Organic Compounds with
 J. Phys. Chem. A **124**, 3590-3600 (2020)
 
 **65** M. Catherin, O. Uranga-Barandiaran, A. Brosseau, R. Métivier, D. Canard, A. D’Aléo, D. Casanova, F. Castet, F. Fages <br>
-_[Exciton interactions, excimer formation, and [2pi+2pi] photodimerization in nonconjugated curcuminoid-BF2 dimers](https://doi.org/10.1002/chem.201905122)_ <br>
+_[Exciton interactions, excimer formation, and [2π+2π]  photodimerization in nonconjugated curcuminoid-BF<sub>2</sub> dimers](https://doi.org/10.1002/chem.201905122)_ <br>
 Chem. Eur. J. **26**, 3818-3828 (2020)
 
 **64** D. Casanova, A. Krylov <br>
@@ -143,7 +143,7 @@ _[Stable Cross-Conjugated Tetrathiophene Diradical](https://onlinelibrary.wiley.
 Angew. Chem. Int. Ed. **58**, 11291 (2019)
 
 **56**. A. Carreras, S. Conejeros, A. Camón, A. García, N. Casañ-Pastor, P. Alemany, E. Canadell <br>
-_[Charge Delocalization, Oxidation States, and Silver Mobility in the Mixed Silver–Copper Oxide AgCuO2](https://pubs.acs.org/doi/10.1021/acs.inorgchem.9b00662)_ <br>
+_[Charge Delocalization, Oxidation States, and Silver Mobility in the Mixed Silver–Copper Oxide AgCuO<sub>2</sub>](https://pubs.acs.org/doi/10.1021/acs.inorgchem.9b00662)_ <br>
 Inorg. Chem. **58**, 7026 (2019)
 
 **55**. A. Carreras, L. Fuligni, P. Alemany, M. Llunell, J. Maria Bofill, W. Quapp <br>
@@ -253,7 +253,7 @@ _[Fluorenyl Based Macrocyclic Polyradicaloids](https://pubs.acs.org/doi/10.1021/
 J. Am. Chem. Soc. **139**, 13173 (2017)
 
 **29**. C. Climent, P. Alam, S. Pasha, G. Kaur, A. Roychoudhury, I. Rahaman Laskar, P. Alemany, D. Casanova <br>
-_[Dual emission and Multi-Stimuli-Response in Iridium(III) complexes with Aggregation-Induced Enhanced Emission: Application to Quantitative CO2 Detection](https://pubs.rsc.org/en/content/articlelanding/2017/TC/C7TC02250F)_ <br>
+_[Dual emission and Multi-Stimuli-Response in Iridium(III) complexes with Aggregation-Induced Enhanced Emission: Application to Quantitative CO<sub>2</sub> Detection](https://pubs.rsc.org/en/content/articlelanding/2017/TC/C7TC02250F)_ <br>
 J. Mater. Chem. C **5**, 7784 (2017)
 
 **28**. J. Uranga, J. M. Matxain, X. Lopez, J. M. Ugalde, D. Casanova <br>
@@ -265,7 +265,7 @@ _[The photophysics of naphthalene dimers controlled by the sulfur bridge oxidati
 Chem. Sci. **8**, 4941 (2017)
 
 **26**. R. Long, D. Casanova, W. H. Fang, O. V. Prezhdo <br>
-_[Donor-Acceptor Interaction Determines the Mechanism of Photo-Induced Electron Injection from Graphene Quantum Dots into TiO2: π-Stacking Supersedes Covalent Bonding](https://pubs.acs.org/doi/10.1021/jacs.6b09598)_ <br>
+_[Donor-Acceptor Interaction Determines the Mechanism of Photo-Induced Electron Injection from Graphene Quantum Dots into TiO<sub>2</sub>: π-Stacking Supersedes Covalent Bonding](https://pubs.acs.org/doi/10.1021/jacs.6b09598)_ <br>
 J. Am. Chem. Soc. **139**, 2619 (2017)
 
 **25**. P. Alam, S. Dash, C. Climent, G. Kaur, A. R. Choudhury, D. Casanova, P. Alemany, R. Choudhury, I. R. Laskar <br>
@@ -323,11 +323,11 @@ _[Bright Fission: Singlet Fission into a Pair of Emitting States](https://pubs.a
 J. Chem. Theory Comput. **11**, 2642 (2015)
 
 **12**. O. Varnavski, N. Abeyasinghe, J. Aragó, J.J. Serrano-Pérez, E. Ortí, J.T. López, K. Takimiya, D. Casanova, J. Casado, T. Goodson III <br>
-_[High yield of triplet generation via intramolecular singlet exciton fission in a quinoidal bithiophene](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00198)_
+_[High yield of triplet generation via intramolecular singlet exciton fission in a quinoidal bithiophene](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00198)_ <br>
 J. Phys. Chem. Lett. **6**, 1375 (2015)
 
 **11**. D. Casanova <br>
-_[Theoretical investigations of the perylene electronic structure: monomer, dimers and excimers](https://onlinelibrary.wiley.com/doi/10.1002/qua.24869)_
+_[Theoretical investigations of the perylene electronic structure: monomer, dimers and excimers](https://onlinelibrary.wiley.com/doi/10.1002/qua.24869)_ <br>
 Int. J. Quantum Chem. **115**, 442 (2015)
 
 **10**. Y. Shao, …, D. Casanova, et al. <br>
@@ -340,7 +340,7 @@ _[Second-order perturbative corrections to the restricted active space configura
 J. Chem. Phys. **140**, 144111 (2014)
 
 **8**. D. Casanova <br>
-_[How much tetraradical character is present in the Si6Ge9 cluster?](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23580)_ <br>
+_[How much tetraradical character is present in the Si<sub>6</sub>Ge<sub>9</sub> cluster?](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23580)_ <br>
 J. Comput. Chem. **35**, 944 (2014)
 
 **7**. D. Casanova <br>
