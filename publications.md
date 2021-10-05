@@ -207,7 +207,7 @@ ChemPhysChem **19**, 2224 (2018)
 _[Theoretical Modeling of Singlet Fission](https://pubs.acs.org/doi/10.1021/acs.chemrev.7b00601)_ <br>
 Chem. Rev. **118**, 7164 (2018)
 
-**40**. S. Medina Rivero, P. Mayorga Burrezo, M. E. Sandoval-Salinas, T. Li, F. J. Ramírez, D. Casanova, X. Wang, J. Casado <br>
+**40**. S. Medina-Rivero, P. Mayorga-Burrezo, M. E. Sandoval-Salinas, T. Li, F. J. Ramírez, D. Casanova, X. Wang, J. Casado <br>
 _[Isomerism, Diradical Signature, and Raman Spectroscopy: Underlying Connections in Diamino Oligophenyl Dications](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201800085)_
 ChemPhysChem **19**, 1465 (2018)
 
