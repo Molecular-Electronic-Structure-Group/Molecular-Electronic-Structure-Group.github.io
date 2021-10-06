@@ -2,7 +2,7 @@
 title: "Antonio Cebreiro"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/placeholder.jpg"
+image: "images/team/antonio_cebreiro_square.png"
 jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/"
 weight: 9
