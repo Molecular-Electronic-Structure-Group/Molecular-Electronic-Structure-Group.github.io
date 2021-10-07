@@ -1,7 +1,7 @@
 ---
 title: Molecular Electronic Structure Group - DIPC
 layout: home_landing
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Molecular Electronic Structure Group - DIPC
 intro_image: "images/intro_test5.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
