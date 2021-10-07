@@ -31,7 +31,7 @@ of small organic molecules in a crystal.
 **phonoLAMMPS** ([GitHub](https://github.com/abelcarreras/phonolammps), [PyPI](https://badge.fury.io/py/phonoLAMMPS))  
 A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org), [*Tinker*](https://dasher.wustl.edu/tinker/) and [*GROMACS*](http://www.gromacs.org)
 
-**WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))
+**WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))  
 A tool to analyze the symmetry of the wave function.
 
 **Avogadro** ([GitHub](https://github.com/abelcarreras/avogadro))  
