@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Research
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"

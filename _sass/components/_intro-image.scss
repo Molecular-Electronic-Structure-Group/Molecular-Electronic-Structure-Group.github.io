@@ -1,7 +1,7 @@
 .intro-image {
   width: 100%;
   height: auto;
-  margin-top: -40px;
+  margin-top: 40px;
 }
 .intro-image-absolute {
   max-width: none;
@@ -35,30 +35,25 @@
 }
 
 .intro_landing-image {
-  position: absolute;
-  width: 200%;
+  width: 80%;
   height: auto;
-  margin-top: -40px;
-  padding: 3rem;
+  margin-top: 0px;
 }
-
 .intro_landing-image-absolute {
-  max-width: 100%;
+  max-width: none;
 
-  padding: 3rem;
+  padding: 1rem;
   margin-bottom: 30px;
   @include media-breakpoint-up(sm) {
   }
   @include media-breakpoint-up(md) {
-    position: left;
+    position: absolute;
     bottom: -50px;
-    top: 0px;
-    left: -200px;
-    width: 1000px;
+    left: 0px;
+    width: 800px;
   }
   @include media-breakpoint-up(lg) {
     bottom: -60px;
-    top: 0px;
     left: 0px;
     width: 800px;
   }
@@ -74,3 +69,4 @@
     display: block;
   }
 }
+
