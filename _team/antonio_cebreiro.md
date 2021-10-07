@@ -10,9 +10,7 @@ layout: team
 promoted: true
 ---
 
-Development of theoretical models for the evaluation of electronic and magnetic properties of molecular spin qubits emerging from relativistic effects.
-
-<br>After a degree in Chemistry at Autonomous University of Madrid (2019) of which resulted an experimental publication, I graduated in the European Master in Theoretical Chemistry and Computational Modelling from the Autonomous University of Madrid (2021) with a final thesis focusing on the study of spin-orbit effects in laser-induced molecular dissociation.
+After a degree in Chemistry at Autonomous University of Madrid (2019) of which resulted an experimental publication, I graduated in the European Master in Theoretical Chemistry and Computational Modelling from the Autonomous University of Madrid (2021) with a final thesis focusing on the study of spin-orbit effects in laser-induced molecular dissociation.
 
 My PhD project is devoted to the development of theoretical models for the evaluation of electronic and magnetic properties of molecular spin qubits emerging from relativistic effects. These tools will be applied for the characterization of pristine and hetero-substituted graphene nanofragments as potential molecular buildings blocks in quantum technologies.
 
