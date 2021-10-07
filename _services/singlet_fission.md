@@ -3,7 +3,7 @@ title: "Singlet fission"
 date: 2018-11-28T15:14:39+10:00
 image: "images/research/singlet_fission.png"
 featured: true
-weight: 2
+weight: 4
 ---
 
 Singlet fission is a photophysical down-conversion process resulting in the generation of two triplet excitons from the 

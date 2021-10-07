@@ -2,7 +2,7 @@
 title: "Thermally activated delayed fluorescence"
 date: 2018-11-28T15:14:39+10:00
 featured: true
-weight: 2
+weight: 6
 ---
 
 Thermally activated delayed fluorescence (TADF) is a photophysical process taking place in organic materials in which a 

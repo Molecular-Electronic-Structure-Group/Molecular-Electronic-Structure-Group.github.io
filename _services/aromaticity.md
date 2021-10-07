@@ -3,7 +3,7 @@ title: "Excited state aromaticity"
 date: 2018-11-18T12:33:46+10:00
 image: "images/research/aromaticity.png"
 featured: true
-weight: 6
+weight: 7
 layout: service
 ---
 
