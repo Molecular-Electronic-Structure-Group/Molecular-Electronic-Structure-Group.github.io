@@ -5,48 +5,47 @@ description: Resources
 bodyClass: page-resources
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+This is a list of useful resources that are being used in our group. 
+This includes software that we are developing, external 
+tools that we recommend and links to interesting resources.
 
-## Ne verba patulosque numen vix libet
+## Software development
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+**Q-Chem** ([Homepage](https://www.q-chem.com))  
+Q-Chem is a general-purpose electronic structure package. 
+In our group we actively developing RAS-CI method.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+**pyQchem** ([GitHub](https://github.com/abelcarreras/PyQchem), [PyPI](https://badge.fury.io/py/pyqchem))  
+A python interface for Q-Chem.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+**qchem_parsers** ([GitHub](https://github.com/abelcarreras/qchem-parsers))  
+A collection of python parsers for Q-Chem.
 
-## Postquam tamen
+**kimonet** ([GitHub](https://github.com/abelcarreras/kimonet), [PyPI](https://badge.fury.io/py/kimonet))  
+A software to simulate exciton dynamics using Kinetic Monte Carlo algorithm.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+**GroMorG** ([GitHub](https://github.com/abelcarreras/gromorg))  
+A python interface for [*GROMACS*](http://www.gromacs.org) focused in the simulation
+of small organic molecules in a crystal.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+**phonoLAMMPS** ([GitHub](https://github.com/abelcarreras/phonolammps), [PyPI](https://badge.fury.io/py/phonoLAMMPS))  
+A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org), [*Tinker*](https://dasher.wustl.edu/tinker/) and [*GROMACS*](http://www.gromacs.org)
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+**WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))
+A tool to analyze the symmetry of the wave function.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+**Avogadro** ([GitHub](https://github.com/abelcarreras/avogadro))  
+A customized version of [*Avogadro*](https://avogadro.cc) that allows to visualize Natural Orbitals
+and Fractional Occupation Density (FOD) form RAS-CI calculations 
+as implemented in Q-Chem. 
+
+## External tools
+**VMD** ([Homepage](https://www.ks.uiuc.edu/Research/vmd/))  
+A molecular visualization program for displaying, animating, and analyzing 
+molecular systems using both graphical interface and built-in scripting.
+
+
+## Other
+
+**Internal technical documents & development info** ([link](https://abelcarreras.github.io/html/index.html))
+
