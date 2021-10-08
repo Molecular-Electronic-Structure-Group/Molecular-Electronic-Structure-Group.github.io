@@ -11,6 +11,11 @@ weight: 1
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm currently Ikerbasque Research Associate at the Donostia International Physics Center (DICP). 
+My research focuses on the development and implementation of electronic structure for excited states 
+and strongly correlated systems. I'm also interested in using these methods to study optoelectronic and magnetic 
+properties of molecular materials and to investigate underlying photophysical processes. 
+I hold a master degree in Chemistry (U. Girona) and in Physics (U. Barcelona). After my PhD studies in Chemistry, 
+I joined Prof. Head-Gordon’s group at the UC Berkeley as a Fulbright Research Fellow. In 2009 I received a Ramón y 
+Cajal Fellowship (U. Complutense Madrid and U. Barcelona) and in 2013 I became Ikerbasque Research Fellow at the 
+U. Basque Country. Since 2018 I'm Research Associate at the DIPC.

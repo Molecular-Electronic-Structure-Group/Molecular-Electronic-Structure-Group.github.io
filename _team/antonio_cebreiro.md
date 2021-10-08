@@ -4,7 +4,9 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/antonio_cebreiro_square.png"
 jobtitle: "PhD student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl:
+orcid:
+researcherid:
 weight: 9
 layout: team
 promoted: true

@@ -4,7 +4,9 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/team/placeholder.jpg"
 jobtitle: "PhD student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: 
+orcid: 
+researcherid:
 weight: 8
 promoted: true
 ---

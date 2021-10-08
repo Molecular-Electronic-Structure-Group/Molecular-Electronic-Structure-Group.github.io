@@ -4,7 +4,9 @@ date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/team/aaron_rodriguez_square.png"
 jobtitle: "PhD student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl:
+orcid:
+researcherid:
 weight: 7
 promoted: true
 ---

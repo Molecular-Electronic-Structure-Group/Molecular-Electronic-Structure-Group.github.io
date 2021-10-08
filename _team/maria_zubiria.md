@@ -4,7 +4,9 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/maria_zubiria_square.png"
 jobtitle: "PhD student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: 
+orcid:
+researcherid:
 weight: 6
 layout: team
 promoted: true

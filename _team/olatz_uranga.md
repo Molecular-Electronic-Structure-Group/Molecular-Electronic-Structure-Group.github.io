@@ -4,7 +4,9 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/olatz_uranga.jpg"
 jobtitle: "PhD student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl:
+orcid:
+researcherid:
 weight: 5
 layout: team
 promoted: true

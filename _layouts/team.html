@@ -10,6 +10,14 @@ bodyClass: "page-team"
         <h1 class="title">{{page.title}}</h1>
         <div class="feature-image"><img src="{{ page.image | relative_url }}" height="300" /></div>
         <div class="jobtitle">{{page.jobtitle}}</div>
+        {% if page.orcid %}
+        <a href="{{ page.orcid }}" target="blank"><img src="/images/social/ORCID_iD.svg" title="ORCID" alt="ORCID"
+                                                       width="25" height="25"/></a>
+        {% endif %}
+        {% if page.researchid %}
+        <a href="{{ page.researchid }}" target="blank"><img src="/images/social/researcherid.png" title="researchid" alt="researchid"
+                                                            width="25" height="25"/></a>
+        {% endif %}
         <div class="content">{{content}}</div>
       </div>
     </div>

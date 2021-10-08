@@ -4,7 +4,9 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/veronica_postils.png"
 jobtitle: "Post-doc"
-linkedinurl: "https://www.linkedin.com/example2"
+linkedinurl:
+orcid:
+researcherid:
 weight: 4
 promoted: true
 ---

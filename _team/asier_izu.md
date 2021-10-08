@@ -4,7 +4,9 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/placeholder.jpg"
 jobtitle: "Master student"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: 
+orcid:
+researcherid:
 weight: 10
 layout: team
 promoted: true
