@@ -11,7 +11,7 @@ main:
   - name: "Resources"
     url: "/resources/"
     weight: 4
-  - name: "Contact"
+  - name: "About"
     url: "/contact/"
     weight: 5
 
