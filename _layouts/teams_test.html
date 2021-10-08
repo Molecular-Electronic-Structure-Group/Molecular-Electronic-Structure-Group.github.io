@@ -37,14 +37,17 @@ bodyClass: "page-teams"
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
                     {% endif %}
                     {% if team.orcid %}
-                    <a target="_blank" href="{{ page.orcid }}"><img src="/images/social/ORCID_iD.svg"
+                    <a target="_blank" href="{{ team.orcid }}"><img src="/images/social/ORCID_iD.svg"
                                                                          width="25" height="25"/></a>
                     {% endif %}
                     {% if team.researchid %}
-                    <a target="_blank" href="{{ page.researchid }}"><img src="/images/social/researcherid.png"
+                    <a target="_blank" href="{{ team.researchid }}"><img src="/images/social/researcherid.png"
                                                                         width="25" height="25"/></a>
                     {% endif %}
                 </div>
+                <div class="team-content2">{{ team.address }}</div>
+                <div class="team-content2">{{ team.phone }}</div>
+                <div class="team-content2">{{ team.email }}</div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>
             </div>
         </div>
