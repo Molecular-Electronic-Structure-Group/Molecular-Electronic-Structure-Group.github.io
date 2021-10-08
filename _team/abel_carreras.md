@@ -4,8 +4,11 @@ date: 2018-12-20T13:44:55+10:00
 draft: false
 image: "images/team/abel_carreras.jpg"
 jobtitle: "Post-doc"
-orcid:
-researcherid:
+address: "DIPC Building 2"
+email: "a.carreras[at]dipc.org"
+phone: "(943) 01 5414"
+orcid: "https://orcid.org/0000-0001-5529-2440"
+researchid: "https://publons.com/researcher/2760829/abel-carreras/"
 weight: 3
 promoted: true
 ---
