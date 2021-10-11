@@ -5,7 +5,7 @@ draft: false
 image: "images/team/claire_tonnele.png"
 jobtitle: "Post-doc"
 orcid: "https://orcid.org/0000-0003-0791-8239"
-researcherid:
+researchid:
 address: "DIPC Building 4"
 phone:
 email:

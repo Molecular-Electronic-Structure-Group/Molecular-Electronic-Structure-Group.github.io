@@ -6,7 +6,7 @@ image: "images/team/placeholder.jpg"
 jobtitle: "Master student"
 linkedinurl: 
 orcid:
-researcherid:
+researchid:
 address: 
 phone:
 email:

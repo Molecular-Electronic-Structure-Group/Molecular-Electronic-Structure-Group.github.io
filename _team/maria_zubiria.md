@@ -5,11 +5,11 @@ draft: false
 image: "images/team/maria_zubiria_square.png"
 jobtitle: "PhD student"
 linkedinurl: 
-orcid:
-researcherid:
+orcid: "https://orcid.org/0000-0003-4795-9107"
+researchid: "https://publons.com/researcher/1798416/maria-zubiria-ulacia/"
 address: "DIPC Building 4"
 phone:
-email:
+email: "maria.zubiria[at]dipc.org"
 weight: 6
 layout: team
 promoted: true

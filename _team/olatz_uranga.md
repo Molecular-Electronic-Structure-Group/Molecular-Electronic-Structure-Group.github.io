@@ -8,7 +8,7 @@ address: "DIPC Building 4"
 phone: ""
 linkedinurl:
 orcid:
-researcherid:
+researchid:
 email: "olatzura[at]hotmail.com"
 weight: 5
 layout: team

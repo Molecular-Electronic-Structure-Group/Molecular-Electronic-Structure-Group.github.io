@@ -6,7 +6,7 @@ image: "images/team/veronica_postils.png"
 jobtitle: "Post-doc"
 linkedinurl:
 orcid:
-researcherid:
+researchid:
 address: "DIPC Building 4"
 phone:
 email: 

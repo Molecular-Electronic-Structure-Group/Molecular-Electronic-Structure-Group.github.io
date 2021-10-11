@@ -5,8 +5,8 @@ draft: false
 image: "images/team/placeholder.jpg"
 jobtitle: "PhD student"
 linkedinurl: 
-orcid: 
-researcherid:
+orcid:
+researchid:
 address: "DIPC Building 4"
 phone:
 email:

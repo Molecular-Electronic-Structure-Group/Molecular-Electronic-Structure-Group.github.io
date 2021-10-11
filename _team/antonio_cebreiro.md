@@ -6,7 +6,7 @@ image: "images/team/antonio_cebreiro_square.png"
 jobtitle: "PhD student"
 linkedinurl:
 orcid:
-researcherid:
+researchid:
 address: "DIPC Building 4"
 phone: 
 email: "antonio.cebreiro[at]dipc.org"
