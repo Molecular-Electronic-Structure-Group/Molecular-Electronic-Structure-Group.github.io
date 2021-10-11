@@ -7,6 +7,9 @@ jobtitle: "Master student"
 linkedinurl: 
 orcid:
 researcherid:
+address: 
+phone:
+email:
 weight: 10
 layout: team
 promoted: true

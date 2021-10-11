@@ -9,7 +9,5 @@ intro_image_hide_on_mobile: false
 ---
 
 # Research Team
-We might include a group picture to the left ==>
-
 Our group focuses on development, implementation, and application of electronic structure methodologies
 to the study of molecular systems.

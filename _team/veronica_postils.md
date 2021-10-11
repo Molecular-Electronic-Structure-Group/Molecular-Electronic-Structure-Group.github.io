@@ -7,6 +7,9 @@ jobtitle: "Post-doc"
 linkedinurl:
 orcid:
 researcherid:
+address: "DIPC Building 4"
+phone:
+email: 
 weight: 4
 promoted: true
 ---

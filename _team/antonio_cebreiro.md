@@ -7,6 +7,9 @@ jobtitle: "PhD student"
 linkedinurl:
 orcid:
 researcherid:
+address: "DIPC Building 4"
+phone: 
+email: "antonio.cebreiro[at]dipc.org"
 weight: 9
 layout: team
 promoted: true

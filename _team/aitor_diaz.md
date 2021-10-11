@@ -7,6 +7,9 @@ jobtitle: "PhD student"
 linkedinurl: 
 orcid: 
 researcherid:
+address: "DIPC Building 4"
+phone:
+email:
 weight: 8
 promoted: true
 ---
