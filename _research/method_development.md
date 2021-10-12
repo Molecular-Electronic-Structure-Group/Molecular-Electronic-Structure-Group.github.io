@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 image: "images/research/methods.jpg"
 featured: true
 weight: 1
+layout: research_topic
 ---
 
 Development and implementation of novel quantum chemistry models for the computation of 

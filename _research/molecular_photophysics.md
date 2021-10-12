@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 image: 
 featured: true
 weight: 4
+layout: research_topic
 ---
 
 The group has an extended experience in the application of electronic structure methods (either developed in the group 

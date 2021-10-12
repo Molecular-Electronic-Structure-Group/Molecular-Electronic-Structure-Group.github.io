@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 image: "images/research/aromaticity.png"
 featured: true
 weight: 7
-layout: service
+layout: research_topic
 ---
 
 The concept of aromaticity occupies a central place in the description of the ground state electronic structure of 

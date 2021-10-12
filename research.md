@@ -1,7 +1,7 @@
 ---
 title: Research
-layout: services
-description: Services
+layout: research
+description: Research
 intro_image: "images/dipc4.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

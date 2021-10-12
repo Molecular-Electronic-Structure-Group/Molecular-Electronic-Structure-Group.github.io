@@ -3,6 +3,7 @@ title: "Molecular spins for quantum computing"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 8
+layout: research_topic
 ---
 
 There is currently a huge interest in quantum technologies. In particular, quantum computation is expected to 

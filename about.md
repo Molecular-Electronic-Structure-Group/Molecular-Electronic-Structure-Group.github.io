@@ -1,6 +1,6 @@
 ---
 title: About
-layout: contact
+layout: about
 description: About MESG
 ---
 

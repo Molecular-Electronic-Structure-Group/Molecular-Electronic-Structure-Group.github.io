@@ -3,6 +3,7 @@ title: "Triplet-triplet annihilation"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 5
+layout: research_topic
 ---
 
 Triplet-triplet annihilation (TTA) is a special case of photon up-conversion, which has attracted much interest due to 

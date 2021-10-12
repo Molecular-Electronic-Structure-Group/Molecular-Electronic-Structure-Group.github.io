@@ -11,7 +11,7 @@ logo:
   desktop_width: "120px"
 
 collections:
-  services:
+  research:
     output: true
   team:
     output: true
@@ -19,7 +19,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "research"
     values:
       layout: "service"
   - scope:
