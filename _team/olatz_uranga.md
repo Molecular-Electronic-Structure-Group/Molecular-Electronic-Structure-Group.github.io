@@ -5,7 +5,7 @@ draft: false
 image: "images/team/olatz-uranga_square.png"
 jobtitle: "PhD student"
 address: "DIPC Building 4"
-phone: ""
+phone: "(943) 01"
 linkedinurl:
 orcid:
 researchid:
@@ -15,6 +15,28 @@ layout: team
 promoted: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Theoretical and computational studies of excited states in molecules and aggregates
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Education
+    - 2017: PhD Student at UPV/EHU & ISM Institut des Sciences Moléculaires
+    (Supervisors: David Casanova and Frederic Castet)
+    - 2016: MSc in Theoretical Chemistry and Computational Modeling (UPV/EHU)
+    - 2014: Degree in Chemistry (UPV/EHU)
+
+Schools and Complementary formation
+    - Optical Spectroscopy of Conjugated Organic Materials: Chromophores in the Solid State.
+    Lecturer: Dr. Johannes Gierschner.
+    Place: University of Tubingen, Germany.
+    Date: October 2017.
+    - PCCP Workshop
+    Place: Université de Bordeaux (UBx), Bordeaux (France)
+    Date: June 2017
+    - Dynapeutics Summer School
+    Place: Euskal Herriko Unibertsiatea (UPV/EHU), Donostia (Spain)
+    Date: September 2016
+    - ZCAM European School on Solids (Part of EM-TCCM program)
+    Place: Universidad de Zaragoza, Zaragoza (Spain)
+    Date: May 2013
+    - ZCAM European School on Excited States (Part of EM-TCCM program)
+    Place: Universidad de Zaragoza, Zaragoza (Spain)
+    Date: March 2013

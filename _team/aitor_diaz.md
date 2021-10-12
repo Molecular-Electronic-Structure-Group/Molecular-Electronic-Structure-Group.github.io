@@ -8,10 +8,9 @@ linkedinurl:
 orcid:
 researchid:
 address: "DIPC Building 4"
-phone:
-email:
+phone: "(943) 01"
+email: "ad.andres[at]outlook.com"
 weight: 8
 promoted: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.

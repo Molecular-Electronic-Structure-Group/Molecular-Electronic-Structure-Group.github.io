@@ -9,7 +9,7 @@ orcid:
 researchid:
 address: 
 phone:
-email:
+email: "asierizu2@gmail.com"
 weight: 10
 layout: team
 promoted: true

@@ -5,13 +5,12 @@ draft: false
 image: "images/team/veronica_postils.png"
 jobtitle: "Post-doc"
 linkedinurl:
-orcid:
+orcid: "https://orcid.org/0000-0002-7467-9277"
 researchid:
 address: "DIPC Building 4"
-phone:
-email: 
+phone: "(943) 01"
+email: "vpostils@gmail.com"
 weight: 4
 promoted: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.

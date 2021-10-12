@@ -8,4 +8,4 @@ weight: 1
 promoted: false
 ---
 
-Former PhD student
+Former PhD student.

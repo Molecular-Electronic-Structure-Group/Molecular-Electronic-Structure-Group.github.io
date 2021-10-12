@@ -7,11 +7,10 @@ jobtitle: "Post-doc"
 orcid: "https://orcid.org/0000-0003-0791-8239"
 researchid:
 address: "DIPC Building 4"
-phone:
-email:
+phone: "(943) 01"
+email: "ctonnele[at]gmail.com"
 promoted: true
 weight: 2
 promoted: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
