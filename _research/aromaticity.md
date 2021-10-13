@@ -18,7 +18,7 @@ in the aromaticity of molecules in their low-lying excitations.
 ## Recent publications
 
 - A. Diaz-Andres, D. Casanova <br>
-_[Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908)_ <br>
+  <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908" target="_blank">Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity</a> <br>
 J. Phys. Chem. Lett. **12**, 7400 (2021)
 
 - S. Escayola, C. Tonnelé, E. Matito, A. Poater, H. Ottosson, M. Solà, D. Casanova <br>
