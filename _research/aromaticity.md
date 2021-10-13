@@ -22,5 +22,5 @@ in the aromaticity of molecules in their low-lying excitations.
 J. Phys. Chem. Lett. **12**, 7400 (2021)
 
 - S. Escayola, C. Tonnelé, E. Matito, A. Poater, H. Ottosson, M. Solà, D. Casanova <br>
-  _[Guidelines for Tuning the Excited State Hückel–Baird Hybrid Aromatic Character of Pro-Aromatic Quinoidal Compounds](https://onlinelibrary.wiley.com/doi/10.1002/anie.202100261)_ <br>
+  <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202100261" target="_blank">Guidelines for Tuning the Excited State Hückel–Baird Hybrid Aromatic Character of Pro-Aromatic Quinoidal Compounds</a> <br>
   Angew. Chem. Int. Ed. **60**, 10255 (2021)

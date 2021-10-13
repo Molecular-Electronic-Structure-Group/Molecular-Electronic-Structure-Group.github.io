@@ -9,76 +9,94 @@ intro_image_hide_on_mobile: true
 
 ## 2021
 **88**. M. Mansouri, D. Casanova, P. Koval, D. Sánchez-Portal <br>
+<a href="" target="_blank"> </a> <br>
 _[GW approximation for open-shell molecules: a first-principles study](https://iopscience.iop.org/article/10.1088/1367-2630/ac1bf3)_ <br>
 New J. Phys. **23**, 093027 (2021)
 
 **87**. V. Postils, F. Ruipérez, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Mild Open-Shell Character of BODIPY and Its Impact on Singlet and Triplet Excitation Energies](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00544)_ <br>
 J. Chem. Theory Comput. **17**, 5825 (2021)
 
 **86**. Z. Xu, D. Hean, C. Climent, D. Casanova, M. O. Wolf <br>
+<a href="" target="_blank"> </a> <br>
 _[Switching between TADF and RTP: anion-regulated photoluminescence in organic salts and co-crystals](https://pubs.rsc.org/en/content/articlelanding/2021/MA/D1MA00314C)_ <br>
 Mater. Adv. **2**, 5777 (2021)
 
 **85**. E. Epifanovsky, …, A. Carreras, E. Ramos-Cordoba, D. Casanova,…, A. I. Krylov <br>
+<a href="" target="_blank"> </a> <br>
 _[Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package](https://aip.scitation.org/doi/10.1063/5.0055522)_ <br>
 J. Chem. Phys. **155**, 084801 (2021)
 
 **84**. A. Diaz-Andres, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908)_ <br>
 J. Phys. Chem. Lett. **12**, 7400 (2021)
 
 **83**. D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Restricted active space configuration interaction methods for strong correlation: Recent developments](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561)_ <br>
 WIREs Comput Mol Sci. e1561 (2021)
 
 **82**. S. Medina Rivero, J. Urieta-Mora, A. Molina-Ontoria, C. Martín-Fuentes, J. I. Urgel, M. Zubiria-Ulacia, V. Lloveras, D. Casanova, J. I. Martínez, J. Veciana, D. Écija, N. Martín, J. Casado <br>
+<a href="" target="_blank"> </a> <br>
 _[A Trapezoidal Octacyanoquinoid Acceptor Forms Solution and Surface Products by Antiparallel Shape Fitting with Conformational Dipole Momentum Switch](https://onlinelibrary.wiley.com/doi/10.1002/anie.202104294)_ <br>
 Angew. Chem. Int. Ed. **60**, 17887 (2021)
 
 **81**. V. Kachwal, A. Srivastava, S. Thakar, M. Zubiria-Ulacia, D. Gautam, S. Majumder, K. P. Venkatesh, D. Casanova, R. Chowdhury, N. Rath, S. Mukherjee, P. Alemany and I. R. Laskar <br>
+<a href="" target="_blank"> </a> <br>
 _[Engineering a light-driven cyanine based molecular rotor to enhance the sensitivity towards a viscous medium](https://pubs.rsc.org/en/content/articlelanding/2021/MA/D1MA00277E)_ <br>
 Mater. Adv. **2**, 4804 (2021)
 
 **80**. R. Cranston, M. C. Vebber, N. A. Rice, C. Tonnelé, F. Castet, L. Muccioli, J. L. Brusso, B. H. Lessard <br>
+<a href="" target="_blank"> </a> <br>
 _[N-Type Solution-Processed Tin versus Silicon Phthalocyanines: A Comparison of Performance in Organic Thin-Film Transistors and in Organic Photovoltaics](https://pubs.acs.org/doi/10.1021/acsaelm.1c00114)_ <br>
 ACS Appl. Electron. Mater. **3**, 1873 (2021)
 
 **79**. S. Escayola, C. Tonnelé, E. Matito, A. Poater, H. Ottosson, M. Solà, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Guidelines for Tuning the Excited State Hückel–Baird Hybrid Aromatic Character of Pro-Aromatic Quinoidal Compounds](https://onlinelibrary.wiley.com/doi/10.1002/anie.202100261)_ <br>
 Angew. Chem. Int. Ed. **60**, 10255 (2021)
 
 **78**. J. A. Rodríguez, A. Carreras, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Short-range DFT energy correction to multiconfigurational wave functions for open-shell systems](https://aip.scitation.org/doi/10.1063/5.0046404)_ <br>
 J. Chem. Phys. **154**, 124116 (2021)
 
 **77**. M. E. Sandoval-Salinas, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[The Doubly Excited State in Singlet Fission](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cptc.202000211)_ <br>
 ChemPhotoChem **5**, 282 (2021)
 
 **76**. Y. Huang, I. A. Buyanova, C. Phansa, M. E. Sandoval-Salinas, D. Casanova, W. K. Myers, N. C. Greenham, A. Rao, W. M. Chen, Y. Puttisong <br>
+<a href="" target="_blank"> </a> <br>
 _[Competition between triplet pair formation and excimer-like recombination controls singlet fission yield](https://www.sciencedirect.com/science/article/pii/S2666386421000242)_ <br>
 Cell Rep. Phys. Sci. **2**, 100339 (2021)
 
 **75**. R. R. Cranston, M. C. Vebber, J. F. Berbigier, N. A. Rice, C. Tonnelé, Z. J. Comeau, N. T. Boileau, J. L. Brusso, A. J. Shuhendler, F. Castet, L. Muccioli, T. L. Kelly, B. H. Lessard <br>
+<a href="" target="_blank"> </a> <br>
 _[Thin-Film Engineering of Solution-Processable n-Type Silicon Phthalocyanines for Organic Thin-Film Transistors](https://pubs.acs.org/doi/10.1021/acsami.0c17657)_ <br>
 ACS Appl. Mater. Interfaces **13**, 1008 (2021)
 
 **74**. B. King, O. A. Melville, N. A. Rice, S. Kashani, C. Tonnelé, H. Raboui, S. Swaraj, T. M. Grant, T. McAfee, T. P. Bender, H. Ade, F. Castet, L. Muccioli, B. H. Lessard <br>
+<a href="" target="_blank"> </a> <br>
 _[Silicon Phthalocyanines for n-Type Organic Thin-Film Transistors: Development of Structure–Property Relationships](https://pubs.acs.org/doi/10.1021/acsaelm.0c00871)_ <br>
 ACS Appl. Electron. Mater. **3**, 325 (2021)
 
 **73**. Z. Xu, C. Climent, C. M. Brown, D. Hean, C. J. Bardeen, D. Casanova, M. O. Wolf <br>
+<a href="" target="_blank"> </a> <br>
 _[Controlling ultralong room temperature phosphorescence in organic compounds with sulfur oxidation state](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D0SC04715E)_ <br>
 Chem. Sci. **12**, 188 (2021)
 
 ## 2020
 **72** A. Carreras, H. Jiang, P. Pokhilko, A. I. Krylov, P. M. Zimmerman, D. Casanova <br>
+<a href="" target="_blank"> </a> <br>
 _[Calculation of spin–orbit couplings using RASCI spinless one-particle density matrices: 
 Theory and applications](https://aip.scitation.org/doi/10.1063/5.0029146)_ <br>
 J. Chem. Phys. **153**, 214107 (2020)
 
 **71** M. Lv, M. Yu, M. E. Sandoval‐Salinas, J. Xu, Z. Lei, D. Casanova, Y. Yang, J. Chen <br>
+<a href="" target="_blank"> </a> <br>
 _[Engineering the Charge‐Transfer State to Facilitate Spin–Orbit Charge Transfer Intersystem Crossing in Spirobis[anthracene]diones](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202009439)_ <br>
 Angew. Chem. Int. Ed. **59**, 22179-22184 (2020)
 
