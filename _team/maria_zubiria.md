@@ -8,7 +8,7 @@ linkedinurl:
 orcid: "https://orcid.org/0000-0003-4795-9107"
 researchid: "https://publons.com/researcher/1798416/maria-zubiria-ulacia/"
 address: "DIPC Building 4"
-phone: "(943) 01"
+phone: "(943) 01 5622"
 email: "maria.zubiria[at]dipc.org"
 weight: 6
 layout: team
