@@ -20,5 +20,5 @@ I graduated in Chemistry (France) and then completed a PhD in Physical Chemistry
 
 In 2014, I moved to the experimental group of P. L. Burn (UQ, Australia) where I investigated the structural and dynamical properties of the amorphous emissive layer of OLEDs using MD simulations.
 
-Before joining DIPC, I worked from 2016 to 2019 at the Institute for Molecular Sciences of the University of Bordeaux where my work principally focused on investigating the structure-property relationships of functional organic systems including a photoresponsive component.
+Before joining DIPC, I worked from 2016 to 2019 at the Institute for Molecular Sciences of the University of Bordeaux where my research principally focused on investigating the structure-property relationships of functional organic systems including a photoresponsive component.
 
