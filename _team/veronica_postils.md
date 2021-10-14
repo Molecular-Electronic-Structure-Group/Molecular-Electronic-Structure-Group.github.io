@@ -9,7 +9,7 @@ orcid: "https://orcid.org/0000-0002-7467-9277"
 researchid:
 address: "DIPC Building 4"
 phone: "(943) 01"
-email: "vpostils@gmail.com"
+email: "vpostils[at]gmail.com"
 weight: 4
 promoted: true
 ---
