@@ -18,6 +18,3 @@ and approximations are mandatory. One of the most popular approximation for this
 Monte Carlo simulations have shown to be a very valuable tool to model a large variety of phenomena in organic materials, 
 providing useful information for the rationalization of experimental observations and the design of new (opto)electronic 
 systems.
-
-
-## Recent publications

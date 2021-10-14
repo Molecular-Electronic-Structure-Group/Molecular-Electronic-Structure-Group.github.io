@@ -18,9 +18,9 @@ in the aromaticity of molecules in their low-lying excitations.
 ## Recent publications
 
 - A. Diaz-Andres, D. Casanova <br>
-  <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908" target="_blank">Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity</a> <br>
+  <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908" target="_blank"><i>Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity</i></a> <br>
 J. Phys. Chem. Lett. **12**, 7400 (2021)
 
 - S. Escayola, C. Tonnelé, E. Matito, A. Poater, H. Ottosson, M. Solà, D. Casanova <br>
-  <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202100261" target="_blank">Guidelines for Tuning the Excited State Hückel–Baird Hybrid Aromatic Character of Pro-Aromatic Quinoidal Compounds</a> <br>
+  <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202100261" target="_blank"><i>Guidelines for Tuning the Excited State Hückel–Baird Hybrid Aromatic Character of Pro-Aromatic Quinoidal Compounds</i></a> <br>
   Angew. Chem. Int. Ed. **60**, 10255 (2021)

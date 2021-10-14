@@ -19,17 +19,17 @@ and oligomers, and in molecular aggregates.
 ## Recent publications
 
 - V. Postils, F. Ruipérez, D. Casanova <br>
-_[Mild Open-Shell Character of BODIPY and Its Impact on Singlet and Triplet Excitation Energies](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00544)_ <br>
+<a href="https://pubs.acs.org/doi/10.1021/acs.jctc.1c00544" target="_blank"><i>Mild Open-Shell Character of BODIPY and Its Impact on Singlet and Triplet Excitation Energies</i></a> <br>
 J. Chem. Theory Comput. **17**, 5825 (2021)
 
 - S. Medina Rivero, J. Urieta-Mora, A. Molina-Ontoria, C. Martín-Fuentes, J. I. Urgel, M. Zubiria-Ulacia, V. Lloveras, D. Casanova, J. I. Martínez, J. Veciana, D. Écija, N. Martín, J. Casado <br>
-  _[A Trapezoidal Octacyanoquinoid Acceptor Forms Solution and Surface Products by Antiparallel Shape Fitting with Conformational Dipole Momentum Switch](https://onlinelibrary.wiley.com/doi/10.1002/anie.202104294)_ <br>
-  Angew. Chem. Int. Ed. **60**, 17887 (2021)
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202104294" target="_blank"><i>A Trapezoidal Octacyanoquinoid Acceptor Forms Solution and Surface Products by Antiparallel Shape Fitting with Conformational Dipole Momentum Switch</i></a> <br>
+Angew. Chem. Int. Ed. **60**, 17887 (2021)
 
 - Z. Xu, C. Climent, C. M. Brown, D. Hean, C. J. Bardeen, D. Casanova, M. O. Wolf <br>
-  _[Controlling ultralong room temperature phosphorescence in organic compounds with sulfur oxidation state](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D0SC04715E)_ <br>
-  Chem. Sci. **12**, 188 (2021)
+<a href="https://pubs.rsc.org/en/content/articlelanding/2021/SC/D0SC04715E" target="_blank"><i>Controlling ultralong room temperature phosphorescence in organic compounds with sulfur oxidation state</i></a> <br>
+Chem. Sci. **12**, 188 (2021)
 
 - M. Zubiria-Ulacia, J. M. Matxain, D. Casanova <br>
-_[The role of CT excitations in PDI aggregates](https://doi.org/10.1039/D0CP02344B )_ <br>
+<a href="https://doi.org/10.1039/D0CP02344B" target="_blank"><i>The role of CT excitations in PDI aggregates</i></a> <br>
 Phys. Chem. Chem. Phys. **22**, 15908-15918 (2020)

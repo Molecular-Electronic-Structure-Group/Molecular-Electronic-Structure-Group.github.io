@@ -26,6 +26,6 @@ Two aspects are of particular interest in our group:
 ## Recent publications
 
 - Z. Xu, D. Hean, C. Climent, D. Casanova, M. O. Wolf <br>
-_[Switching between TADF and RTP: anion-regulated photoluminescence in organic salts and co-crystals](https://pubs.rsc.org/en/content/articlelanding/2021/MA/D1MA00314C)_ <br>
+<a href="https://pubs.rsc.org/en/content/articlelanding/2021/MA/D1MA00314C" target="_blank"><i>Switching between TADF and RTP: anion-regulated photoluminescence in organic salts and co-crystals</i></a> <br>
 Mater. Adv. **2**, 5777 (2021)
 

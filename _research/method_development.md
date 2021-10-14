@@ -28,19 +28,19 @@ the low-lying excited states as well as the electronic transitions from the grou
 ## Recent publications
 
 - D. Casanova <br>
-_[Restricted active space configuration interaction methods for strong correlation: Recent developments](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561)_ <br>
+<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561" target="_blank"><i>Restricted active space configuration interaction methods for strong correlation: Recent developments</i></a> <br>
 WIREs Comput Mol Sci. e1561 (2021)
 
 - J. A. Rodríguez, A. Carreras, D. Casanova <br>
-_[Short-range DFT energy correction to multiconfigurational wave functions for open-shell systems](https://aip.scitation.org/doi/10.1063/5.0046404)_ <br>
+<a href="https://aip.scitation.org/doi/10.1063/5.0046404" target="_blank"><i>Short-range DFT energy correction to multiconfigurational wave functions for open-shell systems</i></a> <br>
 J. Chem. Phys. **154**, 124116 (2021)
 
 - A. Carreras, H. Jiang, P. Pokhilko, A. I. Krylov, P. M. Zimmerman, D. Casanova <br>
-_[Calculation of spin–orbit couplings using RASCI spinless one-particle density matrices:
-Theory and applications](https://aip.scitation.org/doi/10.1063/5.0029146)_ <br>
+<a href="https://aip.scitation.org/doi/10.1063/5.0029146" target="_blank"><i>Calculation of spin–orbit couplings using RASCI spinless one-particle density matrices:
+  Theory and applications</i></a> <br>
 J. Chem. Phys. **153**, 214107 (2020)
 
 - D. Casanova, A. Krylov <br>
-_[Title: Spin-Flip Methods in Quantum Chemistry](https://doi.org/10.1039/C9CP06507E)_ <br>
+<a href="https://doi.org/10.1039/C9CP06507E" target="_blank"><i>Spin-Flip Methods in Quantum Chemistry</i></a> <br>
 Phys. Chem. Chem. Phys. **22**, 4326-4342 (2020)
 
