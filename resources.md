@@ -28,8 +28,12 @@ A software to simulate exciton dynamics using Kinetic Monte Carlo algorithm.
 A python interface for [*GROMACS*](http://www.gromacs.org) focused in the simulation
 of small organic molecules in a crystal.
 
+**DynaPhoPy** ([GitHub](https://github.com/abelcarreras/dynaphopy), [PyPI](https://badge.fury.io/py/dynaphopy))  
+A software to compute the phonon anharmonic properties by using the normal mode decomposition technique.
+
 **phonoLAMMPS** ([GitHub](https://github.com/abelcarreras/phonolammps), [PyPI](https://badge.fury.io/py/phonoLAMMPS))  
-A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org), [*Tinker*](https://dasher.wustl.edu/tinker/) and [*GROMACS*](http://www.gromacs.org)
+A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org), 
+[*Tinker*](https://dasher.wustl.edu/tinker/) and [*GROMACS*](http://www.gromacs.org).
 
 **WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))  
 A tool to analyze the symmetry of the wave function.
