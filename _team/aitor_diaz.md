@@ -9,7 +9,7 @@ orcid:
 researchid:
 address: "DIPC Building 4"
 phone: "(943) 01"
-email: "ad.andres[at]outlook.com"
+email: "aitor.diaz[at]dipc.org"
 weight: 8
 promoted: true
 ---
