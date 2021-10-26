@@ -14,3 +14,11 @@ weight: 8
 promoted: true
 ---
 
+I am currently a PhD student at the Donostia International Physics Center (DIPC). 
+My PhD research aims to study the exciton dynamics in organic solids and the time evolution of interacting excitons 
+from the most simple crystal structure to more complex amorphous systems. 
+After I obtained a Degree in Chemistry (UPV/EHU), 
+I graduated in the European Master in Theoretical Chemistry and Computational Modelling (Spain). 
+In the thesis I studied the aromaticity of benzene excimer and excited multimers which we published in 2021. 
+Besides the PhD studies I am strongly interested in developing highly parallelized scientific codes. 
+I am interested in implementing the power of Graphics Processing Units (GPU) to scientific tools.
