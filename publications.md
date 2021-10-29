@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2021
+**89**. L. Lescos, P. Beaujean, C. Tonnelé, P. Aurel, M. Blanchard-Desce, V. Rodriguez, M. de Wergifosse, B. Champagne, L. Muccioli, F. Castet <br>
+<a href="https://pubs.rsc.org/en/content/articlelanding/2021/CP/D1CP03741B" target="_blank"><i>Self-assembling, structure and nonlinear optical properties of fluorescent organic nanoparticles in water</i></a> <br>
+Phys. Chem. Chem. Phys. **23**, 23643 (2021)
+
 **88**. M. Mansouri, D. Casanova, P. Koval, D. Sánchez-Portal <br>
 <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac1bf3" target="_blank"><i>GW approximation for open-shell molecules: a first-principles study</i></a> <br>
 New J. Phys. **23**, 093027 (2021)
