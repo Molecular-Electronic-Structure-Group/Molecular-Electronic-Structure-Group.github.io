@@ -13,7 +13,7 @@ tools that we recommend and links to interesting resources.
 
 **Q-Chem** ([Homepage](https://www.q-chem.com))  
 Q-Chem is a general-purpose electronic structure package. 
-In our group we actively developing RAS-CI method.
+In our group we actively develop RAS-CI method.
 
 **pyQchem** ([GitHub](https://github.com/abelcarreras/PyQchem), [PyPI](https://badge.fury.io/py/pyqchem))  
 A python interface for Q-Chem.
@@ -25,8 +25,8 @@ A collection of python parsers for Q-Chem.
 A software to simulate exciton dynamics using Kinetic Monte Carlo algorithm.
 
 **GroMorG** ([GitHub](https://github.com/abelcarreras/gromorg))  
-A python interface for [*GROMACS*](http://www.gromacs.org) focused in the simulation
-of small organic molecules in a crystal.
+A python tool to automate the computation of molecular dynamics simulations 
+of small organic molecules using [*GROMACS*](http://www.gromacs.org).
 
 **DynaPhoPy** ([GitHub](https://github.com/abelcarreras/dynaphopy), [PyPI](https://badge.fury.io/py/dynaphopy))  
 A software to compute the phonon anharmonic properties by using the normal mode decomposition technique.
@@ -38,7 +38,7 @@ A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org),
 **WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))  
 A tool to analyze the symmetry of the wave function.
 
-**Avogadro** ([GitHub](https://github.com/abelcarreras/avogadro))  
+**Avogadro** ([GitHub](https://github.com/abelcarreras/avogadro/tree/spin_density))  
 A customized version of [*Avogadro*](https://avogadro.cc) that allows to visualize Natural Orbitals
 and Fractional Occupation Density (FOD) form RAS-CI calculations 
 as implemented in Q-Chem. 
