@@ -8,6 +8,16 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2021
+**91**. A. J. Gillett, C. Tonnelé, G. Londi, G. Ricci, M. Catherin, D. M. L. Unson, D. Casanova, F. Castet, Y. Olivier, 
+W. M. Chen, E. Zaborova, E. W. Evans, B. H. Drummond, P. J. Conaghan, L.-S. Cui, N. C. Greenham, Y. Puttisong, 
+F. Fages, D. Beljonne, R. H. Friend
+<a href="https://www.nature.com/articles/s41467-021-26689-8" target="_blank"><i>Spontaneous exciton dissociation enables spin state interconversion in delayed fluorescence organic semiconductors</i></a> <br>
+Nat. Commun. **12**, 6640 (2021)
+
+**90**. T. N. Lewis, C. Tonnelé, W. G. Shuler, Z. A. Kasun, H. Sato, A. J. Berges, J. R. Rodriguez, M. J. Krische, D. Casanova, C. J. Bardeen <br>
+<a href="https://pubs.acs.org/doi/10.1021/jacs.1c08176" target="_blank"><i>Chemical Tuning of Exciton versus Charge-Transfer Excited States in Conformationally Restricted Arylene Cages</i></a> <br>
+J. Am. Chem. Soc. **143**, 18548 (2021)
+
 **89**. L. Lescos, P. Beaujean, C. Tonnelé, P. Aurel, M. Blanchard-Desce, V. Rodriguez, M. de Wergifosse, B. Champagne, L. Muccioli, F. Castet <br>
 <a href="https://pubs.rsc.org/en/content/articlelanding/2021/CP/D1CP03741B" target="_blank"><i>Self-assembling, structure and nonlinear optical properties of fluorescent organic nanoparticles in water</i></a> <br>
 Phys. Chem. Chem. Phys. **23**, 23643 (2021)
