@@ -44,6 +44,10 @@ and Fractional Occupation Density (FOD) form RAS-CI calculations
 as implemented in Q-Chem. 
 
 ## External tools
+
+**QUESTDB** ([Homepage](https://lcpq.github.io/QUESTDB_website/))  
+A reference database of vertical excitation energies for small- and medium-sized molecules.
+
 **VMD** ([Homepage](https://www.ks.uiuc.edu/Research/vmd/))  
 A molecular visualization program for displaying, animating, and analyzing 
 molecular systems using both graphical interface and built-in scripting.
