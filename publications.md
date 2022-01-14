@@ -7,44 +7,45 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+## 2022
+**91**. D. Casanova <br>
+<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561" target="_blank"><i>Restricted active space configuration interaction methods for strong correlation: Recent developments</i></a> <br>
+WIREs Comput Mol Sci. **12**, e1561 (2022)
+
 ## 2021
-**91**. A. J. Gillett, C. Tonnelé, G. Londi, G. Ricci, M. Catherin, D. M. L. Unson, D. Casanova, F. Castet, Y. Olivier, 
+**90**. A. J. Gillett, C. Tonnelé, G. Londi, G. Ricci, M. Catherin, D. M. L. Unson, D. Casanova, F. Castet, Y. Olivier, 
 W. M. Chen, E. Zaborova, E. W. Evans, B. H. Drummond, P. J. Conaghan, L.-S. Cui, N. C. Greenham, Y. Puttisong, 
 F. Fages, D. Beljonne, R. H. Friend
 <a href="https://www.nature.com/articles/s41467-021-26689-8" target="_blank"><i>Spontaneous exciton dissociation enables spin state interconversion in delayed fluorescence organic semiconductors</i></a> <br>
 Nat. Commun. **12**, 6640 (2021)
 
-**90**. T. N. Lewis, C. Tonnelé, W. G. Shuler, Z. A. Kasun, H. Sato, A. J. Berges, J. R. Rodriguez, M. J. Krische, D. Casanova, C. J. Bardeen <br>
+**89**. T. N. Lewis, C. Tonnelé, W. G. Shuler, Z. A. Kasun, H. Sato, A. J. Berges, J. R. Rodriguez, M. J. Krische, D. Casanova, C. J. Bardeen <br>
 <a href="https://pubs.acs.org/doi/10.1021/jacs.1c08176" target="_blank"><i>Chemical Tuning of Exciton versus Charge-Transfer Excited States in Conformationally Restricted Arylene Cages</i></a> <br>
 J. Am. Chem. Soc. **143**, 18548 (2021)
 
-**89**. L. Lescos, P. Beaujean, C. Tonnelé, P. Aurel, M. Blanchard-Desce, V. Rodriguez, M. de Wergifosse, B. Champagne, L. Muccioli, F. Castet <br>
+**88**. L. Lescos, P. Beaujean, C. Tonnelé, P. Aurel, M. Blanchard-Desce, V. Rodriguez, M. de Wergifosse, B. Champagne, L. Muccioli, F. Castet <br>
 <a href="https://pubs.rsc.org/en/content/articlelanding/2021/CP/D1CP03741B" target="_blank"><i>Self-assembling, structure and nonlinear optical properties of fluorescent organic nanoparticles in water</i></a> <br>
 Phys. Chem. Chem. Phys. **23**, 23643 (2021)
 
-**88**. M. Mansouri, D. Casanova, P. Koval, D. Sánchez-Portal <br>
+**87**. M. Mansouri, D. Casanova, P. Koval, D. Sánchez-Portal <br>
 <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac1bf3" target="_blank"><i>GW approximation for open-shell molecules: a first-principles study</i></a> <br>
 New J. Phys. **23**, 093027 (2021)
 
-**87**. V. Postils, F. Ruipérez, D. Casanova <br>
+**86**. V. Postils, F. Ruipérez, D. Casanova <br>
 <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.1c00544" target="_blank"><i>Mild Open-Shell Character of BODIPY and Its Impact on Singlet and Triplet Excitation Energies</i></a> <br>
 J. Chem. Theory Comput. **17**, 5825 (2021)
 
-**86**. Z. Xu, D. Hean, C. Climent, D. Casanova, M. O. Wolf <br>
+**85**. Z. Xu, D. Hean, C. Climent, D. Casanova, M. O. Wolf <br>
 <a href="https://pubs.rsc.org/en/content/articlelanding/2021/MA/D1MA00314C" target="_blank"><i>Switching between TADF and RTP: anion-regulated photoluminescence in organic salts and co-crystals</i></a> <br>
 Mater. Adv. **2**, 5777 (2021)
 
-**85**. E. Epifanovsky, …, A. Carreras, E. Ramos-Cordoba, D. Casanova,…, A. I. Krylov <br>
+**84**. E. Epifanovsky, …, A. Carreras, E. Ramos-Cordoba, D. Casanova,…, A. I. Krylov <br>
 <a href="https://aip.scitation.org/doi/10.1063/5.0055522" target="_blank"><i>Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package</i></a> <br>
 J. Chem. Phys. **155**, 084801 (2021)
 
-**84**. A. Diaz-Andres, D. Casanova <br>
+**83**. A. Diaz-Andres, D. Casanova <br>
 <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01908" target="_blank"><i>Benzene Excimer and Excited Multimers: Electronic Character, Interaction Nature, and Aromaticity</i></a> <br>
 J. Phys. Chem. Lett. **12**, 7400 (2021)
-
-**83**. D. Casanova <br>
-<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561" target="_blank"><i>Restricted active space configuration interaction methods for strong correlation: Recent developments</i></a> <br>
-WIREs Comput Mol Sci. e1561 (2021)
 
 **82**. S. Medina Rivero, J. Urieta-Mora, A. Molina-Ontoria, C. Martín-Fuentes, J. I. Urgel, M. Zubiria-Ulacia, V. Lloveras, D. Casanova, J. I. Martínez, J. Veciana, D. Écija, N. Martín, J. Casado <br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202104294" target="_blank"><i>A Trapezoidal Octacyanoquinoid Acceptor Forms Solution and Surface Products by Antiparallel Shape Fitting with Conformational Dipole Momentum Switch</i></a> <br>
