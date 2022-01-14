@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
-**92**. R. R. Cranston, B. King, C. Dindault, T. M. Grant, N. A. Rice, C. Tonnelé, L. Muccioli, F. Castet, S. Swaraj, B. H. Lessard
+**92**. R. R. Cranston, B. King, C. Dindault, T. M. Grant, N. A. Rice, C. Tonnelé, L. Muccioli, F. Castet, S. Swaraj, B. H. Lessard <br>
 <a href=https://pubs.rsc.org/en/content/articlelanding/2022/tc/d1tc05238a" target="_blank"><i>Highlighting the processing versatility of a silicon phthalocyanine derivative for organic thin-film transistors</i></a> <br>
 J. Mater. Chem. C **10**, 485 (2022)
 
