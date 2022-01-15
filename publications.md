@@ -8,13 +8,17 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**93**. M. Lv, X. Lu, Y. Jiang, M. E. Sandoval-Salinas, D. Casanova, H. Sun, Z. Sun, J. Xu, Prof. Y. Yang, J. Chen <br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202113190" target="_blank"><i>Near-Unity Triplet Generation Promoted via Spiro-Conjugation</i></a> <br>
+Ang. Chem. Int. Ed. **61**, e202113190 (2022)
+
 **92**. R. R. Cranston, B. King, C. Dindault, T. M. Grant, N. A. Rice, C. Tonnelé, L. Muccioli, F. Castet, S. Swaraj, B. H. Lessard <br>
 <a href="https://pubs.rsc.org/en/content/articlelanding/2022/tc/d1tc05238a" target="_blank"><i>Highlighting the processing versatility of a silicon phthalocyanine derivative for organic thin-film transistors</i></a> <br>
 J. Mater. Chem. C **10**, 485 (2022)
 
 **91**. D. Casanova <br>
 <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1561" target="_blank"><i>Restricted active space configuration interaction methods for strong correlation: Recent developments</i></a> <br>
-WIREs Comput Mol Sci. **12**, e1561 (2022)
+WIREs Comput. Mol. Sci. **12**, e1561 (2022)
 
 ## 2021
 **90**. A. J. Gillett, C. Tonnelé, G. Londi, G. Ricci, M. Catherin, D. M. L. Unson, D. Casanova, F. Castet, Y. Olivier, 
