@@ -8,6 +8,14 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**95**. A. Carreras, D. Casanova <br>
+<a href="https://aip.scitation.org/doi/10.1063/5.0078406" target="_blank"><i>Simple evaluation of dynamic disorder effects on exciton transport</i></a> <br>
+J. Chem. Phys **156**, 044112 (2022)
+
+**94**. Y. Dai, M. Zubiria-Ulacia, D. Casanova, F. Negri <br>
+<a href="https://www.mdpi.com/2079-3197/10/2/18" target="_blank"><i>Impact of Charge-Resonance Excitations on CT-Mediated J-Type Aggregation in Singlet and Triplet Exciton States of Perylene Di-Imide Aggregates: A TDDFT Investigation</i></a> <br>
+Computation **10**, 18 (2022)
+
 **93**. M. Lv, X. Lu, Y. Jiang, M. E. Sandoval-Salinas, D. Casanova, H. Sun, Z. Sun, J. Xu, Prof. Y. Yang, J. Chen <br>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202113190" target="_blank"><i>Near-Unity Triplet Generation Promoted via Spiro-Conjugation</i></a> <br>
 Ang. Chem. Int. Ed. **61**, e202113190 (2022)
