@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**96**. I. García-Moreno, V. Postils, E. Rebollar, M. J. Ortiz, A. R. Agarrabeitia, D. Casanova <br>
+<a href="https://doi.org/10.1039/D1CP05730H" target="_blank"><i>Generation of multiple triplet states in an orthogonal bodipy dimer: a breakthrough spectroscopic and theoretical approach</i></a> <br>
+Phys. Chem. Chem. Phys **24**, 5929 (2022)
+
 **95**. A. Carreras, D. Casanova <br>
 <a href="https://aip.scitation.org/doi/10.1063/5.0078406" target="_blank"><i>Simple evaluation of dynamic disorder effects on exciton transport</i></a> <br>
 J. Chem. Phys **156**, 044112 (2022)
