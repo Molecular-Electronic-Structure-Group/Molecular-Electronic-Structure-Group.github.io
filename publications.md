@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**98**. C. Climent, D. Casanova, J. Feist, F. J. Garcia-Vidal <br>
+<a href=" https://doi.org/10.1016/j.xcrp.2022.100841" target="_blank"><i>Not dark yet for strong light-matter coupling to accelerate singlet fission dynamics</i></a> <br>
+Cell Rep. Phys. Sci. **3**, 100841 (2022)
+
 **97**. T. Wang, A. Berdonces-Layunta, N. Friedrich, M. Vilas-Varela, J. P. Calupitan, J. I. Ignacio Pascual, D. Peña, D. Casanova, M. Corso, D. G. de Oteyza <br>
 <a href="https://doi.org/10.1021/jacs.1c12618" target="_blank"><i>Aza-triangulene: on-surface synthesis and electronic and magnetic properties</i></a> <br>
 J. Am. Chem. Soc. **144**, 4522 (2022)
