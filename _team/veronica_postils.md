@@ -11,6 +11,6 @@ address: "DIPC Building 4"
 phone: "(943) 01"
 email: "vpostils[at]gmail.com"
 weight: 4
-promoted: true
+promoted: false
 ---
 
