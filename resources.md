@@ -24,7 +24,7 @@ A collection of python parsers for Q-Chem.
 **kimonet** ([GitHub](https://github.com/abelcarreras/kimonet), [PyPI](https://badge.fury.io/py/kimonet))  
 A software to simulate exciton dynamics using Kinetic Monte Carlo algorithm.
 
-**GroMorG** ([GitHub](https://github.com/abelcarreras/gromorg))  
+**GroMorG** ([GitHub](https://github.com/abelcarreras/gromorg), [PyPI](https://pypi.org/project/gromorg))  
 A python tool to automate the computation of molecular dynamics simulations 
 of small organic molecules using [*GROMACS*](http://www.gromacs.org).
 
@@ -35,8 +35,12 @@ A software to compute the phonon anharmonic properties by using the normal mode 
 A tool to compute phonon calculation using [*LAMMPS*](https://www.lammps.org), 
 [*Tinker*](https://dasher.wustl.edu/tinker/) and [*GROMACS*](http://www.gromacs.org).
 
-**WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM)  , [PyPI](https://github.com/abelcarreras/WFNSYM))  
-A tool to analyze the symmetry of the wave function.
+**PoSym** ([GitHub](https://github.com/abelcarreras/posym) , [PyPI](https://pypi.org/project/posym))  
+A python tool to analyze the symmetry of theoretical chemistry objects: normal modes, molecular orbitals, operators, 
+density.
+
+**WfnSym** ([GitHub](https://github.com/abelcarreras/WFNSYM) , [PyPI](https://pypi.org/project/wfnsympy/))  
+A tool to analyze the symmetry of the wave function, molecular orbitals and electronic density.
 
 **Avogadro** ([GitHub](https://github.com/abelcarreras/avogadro/tree/spin_density))  
 A customized version of [*Avogadro*](https://avogadro.cc) that allows to visualize Natural Orbitals
