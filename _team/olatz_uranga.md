@@ -12,7 +12,7 @@ researchid:
 email: "olatzura[at]hotmail.com"
 weight: 5
 layout: team
-promoted: true
+promoted: false
 ---
 
 Theoretical and computational studies of excited states in molecules and aggregates
