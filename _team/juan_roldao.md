@@ -2,7 +2,7 @@
 title: "Juan Carlos Roldao"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "images/team/juan_roldao.png"
+image: "images/team/juan_roldao.jpg"
 jobtitle: "Post-doc"
 address: "DIPC Building 2"
 email: "juancroldao[at]gmail.com"
