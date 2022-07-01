@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**99**. B. Wang, W. Chu, Y. Wu, D. Casanova, W. A. Saidi, and O. V. Prezhdo <br>
+<a href=" https://doi.org/10.1021/acs.jpclett.2c01452" target="_blank"><i>Electron-Volt Fluctuation of Defect Levels in Metal Halide Perovskites on a 100 ps Time Scale</i></a> <br>
+J. Phys. Chem. Lett. **13**, 5946 (2022)
+
 **98**. C. Climent, D. Casanova, J. Feist, F. J. Garcia-Vidal <br>
 <a href=" https://doi.org/10.1016/j.xcrp.2022.100841" target="_blank"><i>Not dark yet for strong light-matter coupling to accelerate singlet fission dynamics</i></a> <br>
 Cell Rep. Phys. Sci. **3**, 100841 (2022)
