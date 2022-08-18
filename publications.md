@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 ## 2022
 **100**. A. Carreras, D. Casanova <br>
-<a href=" https://doi.org/110.1002/cptc.202200066" target="_blank"><i>Theory of Exciton Dynamics in Thermally Activated Delayed Fluorescence</i></a> <br>
+<a href=" https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cptc.202200066" target="_blank"><i>Theory of Exciton Dynamics in Thermally Activated Delayed Fluorescence</i></a> <br>
 ChemPhotoChem **6**, e202200066 (2022)
 
 **99**. B. Wang, W. Chu, Y. Wu, D. Casanova, W. A. Saidi, and O. V. Prezhdo <br>
