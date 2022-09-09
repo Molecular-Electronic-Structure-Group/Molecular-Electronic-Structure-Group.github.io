@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**101**. C. Tonnelé, M. Catherin, M. Girogi, G. Canard, D. Casanova, F. Castet, E. Zabarova, F. Fages <br>
+<a href=" https://www.sciencedirect.com/science/article/pii/S014372082200599X?dgcid=coauthor" target="_blank"><i>Optoelectronic properties of a self-assembling rigidly-linked BF2-curcuminoid bichromophore</i></a> <br>
+Dyes and Pigments **207**, 110677 (2022)
+
 **100**. A. Carreras, D. Casanova <br>
 <a href=" https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cptc.202200066" target="_blank"><i>Theory of Exciton Dynamics in Thermally Activated Delayed Fluorescence</i></a> <br>
 ChemPhotoChem **6**, e202200066 (2022)
