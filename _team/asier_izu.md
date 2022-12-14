@@ -7,8 +7,8 @@ jobtitle: "PhD student"
 linkedinurl: 
 orcid:
 researchid:
-address: 
-phone:
+address: "DIPC Building 4"
+phone: "(943) 01"
 email: "asierizu2@gmail.com"
 weight: 10
 layout: team

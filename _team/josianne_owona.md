@@ -10,7 +10,7 @@ researchid:
 address: 
 phone:
 email: "josianne.owona@gmail.com"
-weight: 10
+weight: 11
 layout: team
 promoted: true
 ---

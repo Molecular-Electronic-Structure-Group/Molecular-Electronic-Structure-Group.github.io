@@ -7,10 +7,10 @@ jobtitle: "Master student"
 linkedinurl:
 orcid:
 researchid:
-address:
-phone:
+address: "DIPC Building 4"
+phone: "(943) 01"
 email: "ganna.mashtaler@tum.de"
-weight: 10
+weight: 12
 layout: team
 promoted: true
 ---
