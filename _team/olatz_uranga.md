@@ -3,14 +3,14 @@ title: "Olatz Uranga"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/olatz-uranga_square.png"
-jobtitle: "PhD student"
+jobtitle: "Former PhD student"
 address: "DIPC Building 4"
 phone: "(943) 01"
 linkedinurl:
 orcid:
 researchid:
 email: "olatzura[at]hotmail.com"
-weight: 5
+weight: 3
 layout: team
 promoted: false
 ---
