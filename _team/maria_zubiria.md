@@ -12,7 +12,7 @@ phone: "(943) 01 5622"
 email: "maria.zubiria[at]dipc.org"
 weight: 6
 layout: team
-promoted: true
+promoted: false
 ---
 
 I started my degree in Chemistry at the University of the Basque Country (EHU/UPV), which ended in 2017. During this period I became interested in physical chemistry, which led me to study the master in Theoretical Chemistry and Computational Modeling, finishing in 2019.
