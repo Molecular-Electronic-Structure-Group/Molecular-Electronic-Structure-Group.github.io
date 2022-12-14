@@ -8,7 +8,11 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
-**101**. C. Tonnelé, M. Catherin, M. Girogi, G. Canard, D. Casanova, F. Castet, E. Zabarova, F. Fages <br>
+**102**. C. Tonnelé, D. Casanova <br>
+<a href=" https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01632j/unauth" target="_blank"><i>Rationalization and tuning of doublet emission in organic radicals</i></a> <br>
+J. Mater. Chem. C **10**, 13826 (2022)
+
+**101**. C. Tonnelé, M. Catherin, M. Giorgi, G. Canard, D. Casanova, F. Castet, E. Zabarova, F. Fages <br>
 <a href=" https://www.sciencedirect.com/science/article/pii/S014372082200599X?dgcid=coauthor" target="_blank"><i>Optoelectronic properties of a self-assembling rigidly-linked BF2-curcuminoid bichromophore</i></a> <br>
 Dyes and Pigments **207**, 110677 (2022)
 
