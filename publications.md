@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2022
+**103**. A. Krishnan, A. Diaz-Andres, K. P. Sudhakaran, A. T. John, M. Hariharan, D. Casanova <br>
+<a href=" https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01632j/unauth" target="_blank"><i>Deciphering the role of (anti)aromaticity in cofacial excimers of linear acenes</i></a> <br>
+J. Phys. Org. Chem. **36**, e4438 (2022)
+
 **102**. C. Tonnelé, D. Casanova <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01632j/unauth" target="_blank"><i>Rationalization and tuning of doublet emission in organic radicals</i></a> <br>
 J. Mater. Chem. C **10**, 13826 (2022)
