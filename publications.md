@@ -7,11 +7,16 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-## 2022
+## 2023
+**104**. R. Prieto-Montero, A. Diaz-Andres, A. Prieto-Castañeda, A. Tabero, A. Longarte, A. R. Agarrabeitia, A. Villanueva, M. J. Ortiz, R. Montero, D. Casanova, V. Martínez-Martínez <br>
+<a href=" https://pubs.rsc.org/en/content/articlelanding/2023/TB/D2TB01515C" target="_blank"><i>Halogen-free photosensitizers based on meso-enamine-BODIPYs for bioimaging and photodynamic therapy</i></a> <br>
+J. Mater. Chem. B **311**, 169 (2023)
+
 **103**. A. Krishnan, A. Diaz-Andres, K. P. Sudhakaran, A. T. John, M. Hariharan, D. Casanova <br>
 <a href=" https://onlinelibrary.wiley.com/doi/10.1002/poc.4438" target="_blank"><i>Deciphering the role of (anti)aromaticity in cofacial excimers of linear acenes</i></a> <br>
-J. Phys. Org. Chem. **36**, e4438 (2022)
+J. Phys. Org. Chem. **36**, e4438 (2023)
 
+## 2022
 **102**. C. Tonnelé, D. Casanova <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01632j/unauth" target="_blank"><i>Rationalization and tuning of doublet emission in organic radicals</i></a> <br>
 J. Mater. Chem. C **10**, 13826 (2022)
