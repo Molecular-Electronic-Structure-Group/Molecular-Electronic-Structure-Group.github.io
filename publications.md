@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**105**. Y. Dai, A. Calzolari, M. Zubiria-Ulacia, D. Casanova, F. Negri <br>
+<a href=" https://www.mdpi.com/1420-3049/28/1/119" target="_blank"><i>Intermolecular Interactions and Charge Resonance Contributions to Triplet and Singlet Exciton States of Oligoacene Aggregates</i></a> <br>
+Molecules **28**, 119 (2023)
+
 **104**. R. Prieto-Montero, A. Diaz-Andres, A. Prieto-Castañeda, A. Tabero, A. Longarte, A. R. Agarrabeitia, A. Villanueva, M. J. Ortiz, R. Montero, D. Casanova, V. Martínez-Martínez <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2023/TB/D2TB01515C" target="_blank"><i>Halogen-free photosensitizers based on meso-enamine-BODIPYs for bioimaging and photodynamic therapy</i></a> <br>
 J. Mater. Chem. B **311**, 169 (2023)
