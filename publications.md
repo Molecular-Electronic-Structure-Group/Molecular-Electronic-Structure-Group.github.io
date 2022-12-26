@@ -8,19 +8,23 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
-**105**. Y. Dai, A. Calzolari, M. Zubiria-Ulacia, D. Casanova, F. Negri <br>
+**106**. Y. Dai, A. Calzolari, M. Zubiria-Ulacia, D. Casanova, F. Negri <br>
 <a href=" https://www.mdpi.com/1420-3049/28/1/119" target="_blank"><i>Intermolecular Interactions and Charge Resonance Contributions to Triplet and Singlet Exciton States of Oligoacene Aggregates</i></a> <br>
 Molecules **28**, 119 (2023)
 
-**104**. R. Prieto-Montero, A. Diaz-Andres, A. Prieto-Castañeda, A. Tabero, A. Longarte, A. R. Agarrabeitia, A. Villanueva, M. J. Ortiz, R. Montero, D. Casanova, V. Martínez-Martínez <br>
+**105**. R. Prieto-Montero, A. Diaz-Andres, A. Prieto-Castañeda, A. Tabero, A. Longarte, A. R. Agarrabeitia, A. Villanueva, M. J. Ortiz, R. Montero, D. Casanova, V. Martínez-Martínez <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2023/TB/D2TB01515C" target="_blank"><i>Halogen-free photosensitizers based on meso-enamine-BODIPYs for bioimaging and photodynamic therapy</i></a> <br>
 J. Mater. Chem. B **311**, 169 (2023)
 
-**103**. A. Krishnan, A. Diaz-Andres, K. P. Sudhakaran, A. T. John, M. Hariharan, D. Casanova <br>
+**104**. A. Krishnan, A. Diaz-Andres, K. P. Sudhakaran, A. T. John, M. Hariharan, D. Casanova <br>
 <a href=" https://onlinelibrary.wiley.com/doi/10.1002/poc.4438" target="_blank"><i>Deciphering the role of (anti)aromaticity in cofacial excimers of linear acenes</i></a> <br>
 J. Phys. Org. Chem. **36**, e4438 (2023)
 
 ## 2022
+**103**. F. Castet, C. Tonnelé, L. Muccioli, B. Champagne <br>
+<a href=" https://pubs.acs.org/doi/abs/10.1021/acs.accounts.2c00616" target="_blank"><i>Predicting the Second-Order Nonlinear Optical Responses of Organic Materials: The Role of Dynamics</i></a> <br>
+Acc. Chem. Res. **55**, 3716 (2022)
+
 **102**. C. Tonnelé, D. Casanova <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01632j/unauth" target="_blank"><i>Rationalization and tuning of doublet emission in organic radicals</i></a> <br>
 J. Mater. Chem. C **10**, 13826 (2022)
