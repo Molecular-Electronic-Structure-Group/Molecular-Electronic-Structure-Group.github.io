@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+
 ## 2023
 **106**. Y. Dai, A. Calzolari, M. Zubiria-Ulacia, D. Casanova, F. Negri <br>
 <a href=" https://www.mdpi.com/1420-3049/28/1/119" target="_blank"><i>Intermolecular Interactions and Charge Resonance Contributions to Triplet and Singlet Exciton States of Oligoacene Aggregates</i></a> <br>
