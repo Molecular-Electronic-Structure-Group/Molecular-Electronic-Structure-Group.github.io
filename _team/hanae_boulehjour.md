@@ -15,4 +15,4 @@ layout: team
 promoted: true
 ---
 
-Master student.
+Master student (University of Bordeaux).
