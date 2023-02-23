@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**108**. J. Wang, F. G. Gámez, J. Marín-Beloqui, A. Diaz-Andres, X. Miao, D. Casanova, J. Casado, J. Liu <br>
+<a href=" https://onlinelibrary.wiley.com/doi/10.1002/anie.202217124" target="_blank"><i>Synthesis of a Dicyclohepta[a,g]heptalene-Containing Polycyclic Conjugated Hydrocarbon and the Impact of Non-Alternant Topologies</i></a> <br>
+Angew. Chem. Int. Ed **62**, e202217124 (2023)
+
 **107**. J. A. Rodríguez-Jiménez, A. Carreras, D. Casanova <br>
 <a href=" https://pubs.acs.org/doi/10.1021/acs.jpca.2c08056" target="_blank"><i>Spin–Orbit Couplings of Open-Shell Systems with Restricted Active Space Configuration Interaction</i></a> <br>
 J. Phys. Chem. A **127**, 1206 (2023)
