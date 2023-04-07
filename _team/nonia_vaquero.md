@@ -9,7 +9,7 @@ orcid:
 researchid:
 address:
 phone:
-email: "nonia.vaquero@dipc.org"
+email: "nonia.vaquero[at]dipc.org"
 weight: 11
 layout: team
 promoted: true

@@ -9,7 +9,7 @@ orcid:
 researchid:
 address: "DIPC Building 4"
 phone: "(943) 01"
-email: "hanae.boulehjour@etu.u-bordeaux.fr"
+email: "hanae.boulehjour[at]etu.u-bordeaux.fr"
 weight: 13
 layout: team
 promoted: true

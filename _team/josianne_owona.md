@@ -9,7 +9,7 @@ orcid:
 researchid:
 address: 
 phone:
-email: "josianne.owona@gmail.com"
+email: "josianne.owona[at]gmail.com"
 weight: 11
 layout: team
 promoted: true

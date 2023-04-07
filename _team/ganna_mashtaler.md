@@ -9,7 +9,7 @@ orcid:
 researchid:
 address: "DIPC Building 4"
 phone: "(943) 01"
-email: "ganna.mashtaler@tum.de"
+email: "ganna.mashtaler[at]tum.de"
 weight: 12
 layout: team
 promoted: true
