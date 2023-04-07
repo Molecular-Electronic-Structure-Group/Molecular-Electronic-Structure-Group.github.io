@@ -7,8 +7,8 @@ jobtitle: "PhD student"
 linkedinurl:
 orcid:
 researchid:
-address:
-phone:
+address: "DIPC Building 4"
+phone: "(943) 01"
 email: "nonia.vaquero[at]dipc.org"
 weight: 11
 layout: team
