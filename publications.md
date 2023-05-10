@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**110**. T. Wang, P. Angulo-Portugal, A. Berdonces-Layunta, A. Jancarik, A. Gourdon, J. Holec, M. Kumar, D. Soler, P. Jelinek, D. Casanova, M. Corso, D. G. de Oteyza, J. P. Calupitan <br>
+<a href=" https://doi.org/10.1021/jacs.3c02027" target="_blank"><i>Tuning the Diradical Character of Pentacene Derivatives via Non-Benzenoid Coupling Motifs</i></a> <br>
+J. Am. Chem. Soc. **145**, 10333 (2023)
+
 **109**. T. J. Gately, R. A. Boto, M. J. Tauber, D. Casanova, C. J. Bardeen <br>
 <a href=" https://pubs.acs.org/doi/10.1021/acs.jpcc.2c08231" target="_blank"><i>Stable Room Temperature Nitrenes Created by Photolysis of Crystalline 4-Azido-2,3,5,6-tetrafluorobenzoic Acid</i></a> <br>
 J. Phys. Chem. C **127**, 4816 (2023)
