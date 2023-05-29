@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**111**. C. Naim, R. Vangheluwe, I. Ledoux-Rak, B. Champagne, C. Tonnelé, M. Blanchard-Desce, E. Matito, F. Castet <br>
+<a href=" https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp00750b" target="_blank"><i>Electric-field induced second harmonic generation responses of push–pull polyenic dyes: experimental and theoretical characterizations</i></a> <br>
+Phys. Chem. Chem. Phys. **25**, 13978 (2023)
+
 **110**. T. Wang, P. Angulo-Portugal, A. Berdonces-Layunta, A. Jancarik, A. Gourdon, J. Holec, M. Kumar, D. Soler, P. Jelinek, D. Casanova, M. Corso, D. G. de Oteyza, J. P. Calupitan <br>
 <a href=" https://doi.org/10.1021/jacs.3c02027" target="_blank"><i>Tuning the Diradical Character of Pentacene Derivatives via Non-Benzenoid Coupling Motifs</i></a> <br>
 J. Am. Chem. Soc. **145**, 10333 (2023)
