@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**112**. A. Diaz-Andres, J. Marín-Beloqui, J. Wang, J. Liu, J. Casado, D. Casanova <br>
+<a href=" https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc00405h" target="_blank"><i>Rational design of anti-Kasha photoemission from a biazulene core embedded in an antiaromatic/aromatic hybrid</i></a> <br>
+Chem. Sci. **14**, 6420 (2023)
+
 **111**. C. Naim, R. Vangheluwe, I. Ledoux-Rak, B. Champagne, C. Tonnelé, M. Blanchard-Desce, E. Matito, F. Castet <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp00750b" target="_blank"><i>Electric-field induced second harmonic generation responses of push–pull polyenic dyes: experimental and theoretical characterizations</i></a> <br>
 Phys. Chem. Chem. Phys. **25**, 13978 (2023)
