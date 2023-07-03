@@ -6,7 +6,7 @@ image: "images/team/david_casanova.jpg"
 jobtitle: "Principal Investigator"
 address: "DIPC Building 4"
 phone: "(943) 01 5719"
-email: "david.casanova[at]ehu.eus"
+email: "david.casanova[at]dipc.org"
 orcid: "https://orcid.org/0000-0002-8893-7089"
 researchid: "https://publons.com/researcher/1190522/david-casanova/"
 promoted: true
