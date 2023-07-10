@@ -8,7 +8,7 @@ orcid: "https://orcid.org/0000-0003-0791-8239"
 researchid:
 address: "DIPC Building 4"
 phone: "(943) 01"
-email: "ctonnele[at]gmail.com"
+email: "claire.tonnele[at]dipc.org"
 promoted: true
 weight: 2
 promoted: true
