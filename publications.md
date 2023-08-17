@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**113**. Gorgon, S., Lv, K., Grüne, J. et al.  <br>
+<a href=" https://doi.org/10.1038/s41586-023-06222-1" target="_blank"><i>Reversible spin-optical interface in luminescent organic radicals</i></a> <br>
+Nature **620**, 538 (2023)
+
 **112**. A. Diaz-Andres, J. Marín-Beloqui, J. Wang, J. Liu, J. Casado, D. Casanova <br>
 <a href=" https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc00405h" target="_blank"><i>Rational design of anti-Kasha photoemission from a biazulene core embedded in an antiaromatic/aromatic hybrid</i></a> <br>
 Chem. Sci. **14**, 6420 (2023)
