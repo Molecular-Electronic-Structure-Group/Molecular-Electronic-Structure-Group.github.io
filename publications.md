@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**114**. B. Wang, Y. Wu, D. Liu, A. S. Vasenko, D. Casanova, O. V. Prezhdo <br>
+<a href=" https://doi.org/10.1021/acs.jpclett.3c02187" target="_blank"><i>Efficient Modeling of Quantum Dynamics of Charge Carriers in Materials Using Short Nonequilibrium Molecular Dynamics</i></a> <br>
+J. Phys. Chem. Lett. **14**, 8289 (2023)
+
 **113**. Gorgon, S., Lv, K., Grüne, J. et al.  <br>
 <a href=" https://doi.org/10.1038/s41586-023-06222-1" target="_blank"><i>Reversible spin-optical interface in luminescent organic radicals</i></a> <br>
 Nature **620**, 538 (2023)
