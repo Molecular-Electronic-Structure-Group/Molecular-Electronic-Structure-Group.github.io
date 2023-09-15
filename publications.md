@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**115**. L. Long, S. Medina Rivero, F. Sun, D. Wang, D. Chekulaev, C. Tonnelé, D. Casanova, J. Casado, Y. Zheng <br>
+<a href=" https://onlinelibrary.wiley.com/doi/10.1002/anie.202308780" target="_blank"><i>A Single-Crystal Monomer to Single-Crystal Polymer Reaction Activated by a Triplet Excimer in a Zipper Mechanism</i></a> <br>
+Angew. Chem. Int. Ed. **62**, e202308780 (2023)
+
 **114**. B. Wang, Y. Wu, D. Liu, A. S. Vasenko, D. Casanova, O. V. Prezhdo <br>
 <a href=" https://doi.org/10.1021/acs.jpclett.3c02187" target="_blank"><i>Efficient Modeling of Quantum Dynamics of Charge Carriers in Materials Using Short Nonequilibrium Molecular Dynamics</i></a> <br>
 J. Phys. Chem. Lett. **14**, 8289 (2023)
