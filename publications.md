@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**116**. M. Vilas-Varela, F. Romero-Lara, A. Vegliante, J. P. Calupitan, A. Martínez, L. Meyer, U. Uriarte-Amiano, N. Friedrich, D. Wang, F. Schulz, N. E. Koval, M. E. Sandoval-Salinas, D. Casanova, M. Corso, E. Artacho, D. Peña, J. I. Pascual <br>
+<a href=" https://doi.org/10.1002/anie.202307884" target="_blank"><i>On-Surface Synthesis and Characterization of a High-Spin Aza-[5]-Triangulene</i></a> <br>
+Angew. Chem. Int. Ed. **62**, e202307884 (2023)
+
 **115**. L. Long, S. Medina Rivero, F. Sun, D. Wang, D. Chekulaev, C. Tonnelé, D. Casanova, J. Casado, Y. Zheng <br>
 <a href=" https://onlinelibrary.wiley.com/doi/10.1002/anie.202308780" target="_blank"><i>A Single-Crystal Monomer to Single-Crystal Polymer Reaction Activated by a Triplet Excimer in a Zipper Mechanism</i></a> <br>
 Angew. Chem. Int. Ed. **62**, e202308780 (2023)
