@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**118**. K. Sven, A. Cebreiro-Gallardo, P. Pokhilko, D. Casanova, A. Krylov <br>
+<a href=" https://doi.org/10.1021/acs.jpca.3c04134" target="_blank"><i>State-Interaction Approach for Evaluating g-Tensors within EOM-CC and RAS-CI Frameworks: Theory and Benchmarks</i></a> <br>
+J. Phys. Chem. A **127**, 8459-8472 (2023)
+
 **117**. M. E. Sandoval-Salinas, G. Ricci, A. J. Pérez-Jiménez, D. Casanova, Y. Olivier, J. C. Sancho-García <br>
 <a href=" http://dx.doi.org/10.1039/D3CP02465B" target="_blank"><i>Correlation vs. exchange competition drives the singlet–triplet excited-state inversion in non-alternant hydrocarbons</i></a> <br>
 Phys. Chem. Chem. Phys. **25**, 26417-26428 (2023)
