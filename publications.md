@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**117**. M. E. Sandoval-Salinas, G. Ricci, A. J. Pérez-Jiménez, D. Casanova, Y. Olivier, J. C. Sancho-García <br>
+<a href=" http://dx.doi.org/10.1039/D3CP02465B" target="_blank"><i>Correlation vs. exchange competition drives the singlet–triplet excited-state inversion in non-alternant hydrocarbons</i></a> <br>
+Phys. Chem. Chem. Phys. **25**, 26417-26428 (2023)
+
 **116**. M. Vilas-Varela, F. Romero-Lara, A. Vegliante, J. P. Calupitan, A. Martínez, L. Meyer, U. Uriarte-Amiano, N. Friedrich, D. Wang, F. Schulz, N. E. Koval, M. E. Sandoval-Salinas, D. Casanova, M. Corso, E. Artacho, D. Peña, J. I. Pascual <br>
 <a href=" https://doi.org/10.1002/anie.202307884" target="_blank"><i>On-Surface Synthesis and Characterization of a High-Spin Aza-[5]-Triangulene</i></a> <br>
 Angew. Chem. Int. Ed. **62**, e202307884 (2023)
