@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2023
+**119**. J. P. Calupitan, A. Berdonces-Layunta, A. Aguilar-Galindo, M. Vilas-Varela, D. Peña, D. Casanova, M. Corso, D. G. de Oteyza, T. Wang<br>
+<a href=" https://doi.org/10.1021/acs.nanolett.3c02586 " target="_blank"><i>Emergence of π-Magnetism in Fused Aza-Triangulenes: Symmetry and Charge Transfer Effects</i></a> <br>
+Nano Lett. **23**, 9832-9840 (2023)
+
 **118**. K. Sven, A. Cebreiro-Gallardo, P. Pokhilko, D. Casanova, A. Krylov <br>
 <a href=" https://doi.org/10.1021/acs.jpca.3c04134" target="_blank"><i>State-Interaction Approach for Evaluating g-Tensors within EOM-CC and RAS-CI Frameworks: Theory and Benchmarks</i></a> <br>
 J. Phys. Chem. A **127**, 8459-8472 (2023)
