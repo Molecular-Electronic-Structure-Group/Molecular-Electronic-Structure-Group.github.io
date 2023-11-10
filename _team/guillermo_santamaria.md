@@ -2,7 +2,7 @@
 title: "Guillermo Santamaría Fernández"
 date: 2018-12-20T13:45:06+10:00
 draft: false
-image: "images/team/guillermo_santamaria.png"
+image: "images/team/guillermo_santamaria.jpg"
 jobtitle: "PhD student"
 linkedinurl: 
 orcid:
