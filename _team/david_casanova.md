@@ -15,8 +15,8 @@ layout: team
 ---
 
 I'm currently Ikerbasque Research Associate at the Donostia International Physics Center (DICP). 
-My research focuses on the development and implementation of electronic structure for excited states 
-and strongly correlated systems. I'm also interested in using these methods to study optoelectronic and magnetic 
+My research focuses on the development and implementation of electronic structure methods for ground and excited states 
+of molecular systems. I'm also interested in using these methods to study optoelectronic and magnetic 
 properties of molecular materials and to investigate underlying photophysical processes. 
 I hold a master degree in Chemistry (U. Girona) and in Physics (U. Barcelona). After my PhD studies in Chemistry, 
 I joined Prof. Head-Gordon’s group at the UC Berkeley as a Fulbright Research Fellow. In 2009 I received a Ramón y 
