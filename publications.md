@@ -7,10 +7,15 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+## 2024
+**121**. V. Postils, Z.  Burešová, D. Casanova, B. Champagne, F. Bureš, V. Rodriguez, F. Castet<br>
+<a href=" https://doi.org/10.1039/D3CP04516A " target="_blank"><i>Second-order nonlinear optical properties of X-shaped pyrazine derivatives</i></a> <br>
+Phys. Chem. Chem. Phys. **26**, 1709-1721 (2024)
+
 ## 2023
 **120**. S. Medina Rivero, M. J. Alonso-Navarro, C. Tonnelé, J. M. Marín-Beloqui, F. Suárez-Blas, T. M. Clarke, S. Kang, J. Oh, M. Mar Ramos, D. Kim, D. Casanova, J. L. Segura, J. Casado<br>
 <a href=" https://doi.org/10.1021/jacs.3c06916 " target="_blank"><i>V-Shaped Tröger Oligothiophenes Boost Triplet Formation by CT Mediation and Symmetry Breaking</i></a> <br>
-J. Am. Chem. Soc. **145**,  27295-27306 (2023)
+J. Am. Chem. Soc. **145**, 27295-27306 (2023)
 
 **119**. J. P. Calupitan, A. Berdonces-Layunta, A. Aguilar-Galindo, M. Vilas-Varela, D. Peña, D. Casanova, M. Corso, D. G. de Oteyza, T. Wang<br>
 <a href=" https://doi.org/10.1021/acs.nanolett.3c02586 " target="_blank"><i>Emergence of π-Magnetism in Fused Aza-Triangulenes: Symmetry and Charge Transfer Effects</i></a> <br>
