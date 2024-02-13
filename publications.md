@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**122**. J. A. Rodríguez-Jiménez, A. Carreras, D. Casanova<br>
+<a href=" https://pubs.acs.org/doi/10.1021/acs.jctc.3c01067 " target="_blank"><i>Small-occupation density functional correlation energy correction to wave function approximations</i></a> <br>
+J. Chem. Theory Comput. **20**, 1118-1129 (2024)
+
 **121**. V. Postils, Z.  Burešová, D. Casanova, B. Champagne, F. Bureš, V. Rodriguez, F. Castet<br>
 <a href=" https://doi.org/10.1039/D3CP04516A " target="_blank"><i>Second-order nonlinear optical properties of X-shaped pyrazine derivatives</i></a> <br>
 Phys. Chem. Chem. Phys. **26**, 1709-1721 (2024)
