@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**123**. S. Agrawal, D. Casanova, D. J. Trivedi, and O. V. Prezhdo<br>
+<a href=" https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03621 " target="_blank"><i>Enhanced Charge Separation in Single Atom Cobalt Based Graphitic Carbon Nitride: Time Domain Ab Initio Analysis</i></a> <br>
+J. Phys. Chem. Lett. **15**, 2202-2208 (2024)
+
 **122**. J. A. Rodríguez-Jiménez, A. Carreras, D. Casanova<br>
 <a href=" https://pubs.acs.org/doi/10.1021/acs.jctc.3c01067 " target="_blank"><i>Small-occupation density functional correlation energy correction to wave function approximations</i></a> <br>
 J. Chem. Theory Comput. **20**, 1118-1129 (2024)
