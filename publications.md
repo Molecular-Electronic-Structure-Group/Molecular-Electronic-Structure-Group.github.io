@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**124**. A. E. Izu, J. M. Matxain, and D. Casanova<br>
+<a href=" https://doi.org/10.1039/D4CP00304G " target="_blank"><i>Reverse intersystem crossing mechanisms in doped triangulenes</i></a> <br>
+Phys. Chem. Chem. Phys. **26**, 11459-11468 (2024)
+
 **123**. S. Agrawal, D. Casanova, D. J. Trivedi, and O. V. Prezhdo<br>
 <a href=" https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03621 " target="_blank"><i>Enhanced Charge Separation in Single Atom Cobalt Based Graphitic Carbon Nitride: Time Domain Ab Initio Analysis</i></a> <br>
 J. Phys. Chem. Lett. **15**, 2202-2208 (2024)
