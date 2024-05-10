@@ -6,7 +6,6 @@ image: "images/team/roberto_boto.png"
 jobtitle: "Post-doc"
 address: "DIPC Building 2"
 email: "robalboto[at]gmail.com"
-phone: "(943) 01 "
 orcid: 
 researchid: 
 weight: 3

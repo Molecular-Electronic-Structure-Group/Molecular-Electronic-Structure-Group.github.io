@@ -7,7 +7,7 @@ jobtitle: "Ikerbasque Research Fellow"
 orcid: "https://orcid.org/0000-0003-0791-8239"
 researchid:
 address: "DIPC Building 4"
-phone: "(943) 01"
+phone: "(943) 01 8178"
 email: "claire.tonnele[at]dipc.org"
 promoted: true
 weight: 2

@@ -8,7 +8,6 @@ linkedinurl:
 orcid:
 researchid:
 address: "DIPC Building 4"
-phone: "(943) 01"
 email: "aitor.diaz[at]dipc.org"
 weight: 8
 promoted: true

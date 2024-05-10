@@ -5,7 +5,6 @@ draft: false
 image: "images/team/aaron_rodriguez_square.png"
 jobtitle: "PhD student"
 address: "DIPC Building 4"
-phone: "(943) 01"
 email: "aarodjim[at]gmail.com"
 orcid: "https://orcid.org/0000-0002-5604-2643"
 linkedinurl:

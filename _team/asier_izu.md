@@ -8,7 +8,6 @@ linkedinurl:
 orcid:
 researchid:
 address: "DIPC Building 4"
-phone: "(943) 01"
 email: "asierizu2[at]gmail.com"
 weight: 10
 layout: team
