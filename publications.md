@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**125**. S. Agrawal, B. Wang, Y. Wu, D. Casanova, and O. Prezhdo<br>
+<a href=" https://doi.org/10.1039/D4NR00606B " target="_blank"><i>Photocatalytic activity of dual defect modified graphitic carbon nitride is robust to tautomerism: machine learning assisted ab initio quantum dynamics</i></a> <br>
+Nanoscale **16**, 8986-8995 (2024)
+
 **124**. A. E. Izu, J. M. Matxain, and D. Casanova<br>
 <a href=" https://doi.org/10.1039/D4CP00304G " target="_blank"><i>Reverse intersystem crossing mechanisms in doped triangulenes</i></a> <br>
 Phys. Chem. Chem. Phys. **26**, 11459-11468 (2024)
