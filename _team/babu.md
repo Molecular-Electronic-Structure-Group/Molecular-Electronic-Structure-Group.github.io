@@ -10,7 +10,7 @@ researchid:
 address: "DIPC Building 4"
 email: "janaar0906[at]gmail.com"
 promoted: true
-weight: 13
+weight: 14
 layout: team
 promoted: true
 ---
