@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**126**. P. Preethalayam, J. C. Roldao, F. Castet, D. Casanova, S. Radenković and H. Ottosson<br>
+<a href=" https://doi.org/10.1002/chem.202303549 " target="_blank"><i>3,4-Dimethylenecyclobutene: A Building Block for Design of Macrocycles with Excited State Aromatic Low-Lying High-Spin States</i></a> <br>
+Chem. Eur. J. **30**, e202303549 (2024)
+
 **125**. S. Agrawal, B. Wang, Y. Wu, D. Casanova, and O. Prezhdo<br>
 <a href=" https://doi.org/10.1039/D4NR00606B " target="_blank"><i>Photocatalytic activity of dual defect modified graphitic carbon nitride is robust to tautomerism: machine learning assisted ab initio quantum dynamics</i></a> <br>
 Nanoscale **16**, 8986-8995 (2024)
