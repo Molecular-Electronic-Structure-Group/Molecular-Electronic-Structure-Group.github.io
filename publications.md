@@ -8,9 +8,13 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**128**. N. Vaquero-Sabater, A. Carreras, R. Orús, N. J. Mayhall and D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jctc.4c00329 " target="_blank"><i>Physically Motivated Improvements of Variational Quantum Eigensolvers</i></a> <br>
+J. Chem. Theory Comput. **20**, 5133-5144 (2024)
+
 **127**. A. Diaz-Andres, C. Tonnelé and D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jctc.4c00185 " target="_blank"><i>Electronic Couplings for Triplet–Triplet Annihilation Upconversion in Crystal Rubrene</i></a> <br>
-J. Chem. Theory Comput. **20**, 4288-4297  (2024)
+J. Chem. Theory Comput. **20**, 4288-4297 (2024)
 
 **126**. P. Preethalayam, J. C. Roldao, F. Castet, D. Casanova, S. Radenković and H. Ottosson<br>
 <a href=" https://doi.org/10.1002/chem.202303549 " target="_blank"><i>3,4-Dimethylenecyclobutene: A Building Block for Design of Macrocycles with Excited State Aromatic Low-Lying High-Spin States</i></a> <br>
