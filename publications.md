@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**129**. Y. Alexeev, M. Amsler, M. A. Barroca, S. Bassini, T. Battelle, D. Camps,  D. Casanova et al.<br>
+<a href=" https://doi.org/10.1016/j.future.2024.04.060 " target="_blank"><i>Quantum-centric supercomputing for materials science: A perspective on challenges and future directions</i></a> <br>
+Future Gener. Comput. Syst. **160**, 666-710 (2024)
+
 **128**. N. Vaquero-Sabater, A. Carreras, R. Orús, N. J. Mayhall and D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jctc.4c00329 " target="_blank"><i>Physically Motivated Improvements of Variational Quantum Eigensolvers</i></a> <br>
 J. Chem. Theory Comput. **20**, 5133-5144 (2024)
