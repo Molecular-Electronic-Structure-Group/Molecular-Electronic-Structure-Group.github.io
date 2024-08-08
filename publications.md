@@ -8,7 +8,11 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
-**129**. Y. Alexeev, M. Amsler, M. A. Barroca, S. Bassini, T. Battelle, D. Camps,  D. Casanova et al.<br>
+**130**. C. Climent, Z. Xu, M. O. Wolf, D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jpclett.4c01616 " target="_blank"><i>Predictive Guidelines for Electrocyclization of Dithienylethenes</i></a> <br>
+J. Phys. Chem. Lett. **15**, 8042–8048 (2024)
+
+**129**. Y. Alexeev, M. Amsler, M. A. Barroca, S. Bassini, T. Battelle, D. Camps, D. Casanova et al.<br>
 <a href=" https://doi.org/10.1016/j.future.2024.04.060 " target="_blank"><i>Quantum-centric supercomputing for materials science: A perspective on challenges and future directions</i></a> <br>
 Future Gener. Comput. Syst. **160**, 666-710 (2024)
 
