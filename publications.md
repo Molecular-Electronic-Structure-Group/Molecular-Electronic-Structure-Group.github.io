@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**131**. J. Owona, D. Casanova, L. Truflandier, F. Castet and C. Tonnelé<br>
+<a href=" https://doi.org/10.1039/D4TC02550D " target="_blank"><i>Modeling of pressure-induced charge transfer character in piezoluminescent pyridylvinylanthracene crystals</i></a> <br>
+J. Mater. Chem. C **12**, 13495-13507 (2024)
+
 **130**. C. Climent, Z. Xu, M. O. Wolf, D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jpclett.4c01616 " target="_blank"><i>Predictive Guidelines for Electrocyclization of Dithienylethenes</i></a> <br>
 J. Phys. Chem. Lett. **15**, 8042–8048 (2024)
