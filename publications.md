@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**132**. H- H. Cho, S. Gorgon, G. Londi, S. Giannini, C. Cho, P. Ghosh, C. Tonnelé, D. Casanova, Y. Olivier, T. K. Baikie, F. and Li, D. Beljonne, N. C. Greenham, R. H. Friend and E. W. Evans<br>
+<a href=" https://doi.org/10.1038/s41566-024-01458-3 " target="_blank"><i>Efficient near-infrared organic light-emitting diodes with emission from spin doublet excitons</i></a> <br>
+Nat. Photonics **18**, 905-912 (2024)
+
 **131**. J. Owona, D. Casanova, L. Truflandier, F. Castet and C. Tonnelé<br>
 <a href=" https://doi.org/10.1039/D4TC02550D " target="_blank"><i>Modeling of pressure-induced charge transfer character in piezoluminescent pyridylvinylanthracene crystals</i></a> <br>
 J. Mater. Chem. C **12**, 13495-13507 (2024)
