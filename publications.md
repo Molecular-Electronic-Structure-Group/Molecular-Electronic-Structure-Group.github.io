@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**133**. C. Magne, S. Streckaite, R. A. Boto, E. Domínguez-Ojeda, M. Gromova, A. Echeverri, F. S. Brigiano, M-H. Ha-Thi, M. Fanckevičius, V. Jašinskas, A. Quaranta, A. A. Pascal, M. Koepf, D. Casanova, T. Pino, B. Robert, J. Contreras-García, D. Finkelstein-Shapiro, V. Gulbinas, M. J.Llansola-Portoles<br>
+<a href=" https://doi.org/10.1039/D4SC04732J " target="_blank"><i> Perylene-derivative singlet exciton fission in water solution</i></a> <br>
+Chem. Sci. **15**, 17831-17842 (2024)
+
 **132**. H- H. Cho, S. Gorgon, G. Londi, S. Giannini, C. Cho, P. Ghosh, C. Tonnelé, D. Casanova, Y. Olivier, T. K. Baikie, F. and Li, D. Beljonne, N. C. Greenham, R. H. Friend and E. W. Evans<br>
 <a href=" https://doi.org/10.1038/s41566-024-01458-3 " target="_blank"><i>Efficient near-infrared organic light-emitting diodes with emission from spin doublet excitons</i></a> <br>
 Nat. Photonics **18**, 905-912 (2024)
