@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2024
+**134**. R. A. Boto, A. Cebreiro-Gallardo, R. E. Menchón, D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jctc.4c00933" target="_blank"><i>Electron–Spin Relaxation in Boron-Doped Graphene Nanoribbons</i></a> <br>
+J. Chem. Theory Comput. **20**, 9906–9916 (2024)
+
 **133**. C. Magne, S. Streckaite, R. A. Boto, E. Domínguez-Ojeda, M. Gromova, A. Echeverri, F. S. Brigiano, M-H. Ha-Thi, M. Fanckevičius, V. Jašinskas, A. Quaranta, A. A. Pascal, M. Koepf, D. Casanova, T. Pino, B. Robert, J. Contreras-García, D. Finkelstein-Shapiro, V. Gulbinas, M. J.Llansola-Portoles<br>
 <a href=" https://doi.org/10.1039/D4SC04732J " target="_blank"><i> Perylene-derivative singlet exciton fission in water solution</i></a> <br>
 Chem. Sci. **15**, 17831-17842 (2024)
