@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**136**. A. Cárdenas, F. Lirette, J. M. Marín-Beloqui, A. Carreras, D. Casanova, J. Boismenu-Lavoie, J-F. Morin, J. Casado<br>
+<a href=" https://doi.org/10.1039/D4SC06442A" target="_blank"><i>Folded–twisted mechanisms control dynamic redox properties{,} photophysics and electron transfer of anthanthrene-quinodimethanes</i></a> <br>
+Chem. Int. **16**, 1925-1931 (2025)
+
 **135**. M. Privado,  S. Moles Quintero,  M. Barrejón,  P. de La Cruz,  Janaarthana Babu P. M.,  D. Casanova,  F. Langa,  J. Casado<br>
 <a href=" https://doi.org/10.1002/anie.202413988" target="_blank"><i>Dibenzoquinone Cyclopentadithiophene Diradicaloids Show Optical Transitions of Different Spin States and Anomalous Near-Infrared Emission</i></a> <br>
 Angew. Chem. Int. Ed. **64**, e202413988 (2025)
