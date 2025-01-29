@@ -8,7 +8,7 @@ address: "DIPC Building 4"
 email: "gaetano.ricci[at]dipc.org"
 orcid: "https://orcid.org/0000-0003-0181-2513"
 researchid: 
-weight: 3
+weight: 6
 promoted: true
 ---
 

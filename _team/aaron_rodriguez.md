@@ -9,7 +9,7 @@ email: "aarodjim[at]gmail.com"
 orcid: "https://orcid.org/0000-0002-5604-2643"
 linkedinurl:
 researcherid:
-weight: 7
+weight: 5
 promoted: true
 ---
 

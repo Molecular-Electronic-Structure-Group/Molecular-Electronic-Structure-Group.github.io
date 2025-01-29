@@ -8,7 +8,7 @@ address: "DIPC Building 2"
 email: "robalboto[at]gmail.com"
 orcid: 
 researchid: 
-weight: 3
+weight: 4
 promoted: true
 ---
 
