@@ -7,7 +7,7 @@ jobtitle: "PhD student"
 linkedinurl: 
 orcid:
 researchid:
-address: 
+address: "DIPC Building 4"
 phone:
 email: "josianne.owona[at]gmail.com"
 weight: 11

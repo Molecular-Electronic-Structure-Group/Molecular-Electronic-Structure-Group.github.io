@@ -3,13 +3,13 @@ title: "Jose Aarón Rodríguez"
 date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/team/aaron_rodriguez_square.png"
-jobtitle: "PhD student"
+jobtitle: "Post-doc"
 address: "DIPC Building 4"
 email: "aarodjim[at]gmail.com"
 orcid: "https://orcid.org/0000-0002-5604-2643"
 linkedinurl:
 researcherid:
-weight: 7
+weight: 5
 promoted: true
 ---
 

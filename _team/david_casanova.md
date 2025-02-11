@@ -21,4 +21,5 @@ properties of molecular materials and to investigate underlying photophysical pr
 I hold a master degree in Chemistry (U. Girona) and in Physics (U. Barcelona). After my PhD studies in Chemistry, 
 I joined Prof. Head-Gordon’s group at the UC Berkeley as a Fulbright Research Fellow. In 2009 I received a Ramón y 
 Cajal Fellowship (U. Complutense Madrid and U. Barcelona) and in 2013 I became Ikerbasque Research Fellow at the 
-U. Basque Country. Since 2018 I'm Research Associate at the DIPC.
+U. Basque Country, in 2018 I was promoted to Ikerbasque Research Associate at the DIPC, 
+and since 2025 I'm Ikerbasque Research Professor (DIPC).
