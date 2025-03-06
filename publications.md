@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**138**. K. Lam, R. J. Dillon, A. Carreras, T. Nishiuchi, T. Kubo, R. O. Al-Kaysi, D. Casanova, C. J. Bardeen<br>
+<a href=" https://doi.org/10.1039/D4CP04022H" target="_blank"><i>Using an aromatic linker to optimize charge-resonance states, photodimerization and reversibility in covalent anthracene dimers</i></a> <br>
+Phys. Chem. Chem. Phys. **27**, 5305-5316 (2025)
+
 **137**. A. Omist, A. Cebreiro-Gallardo, M. Hugget, R. A. Boto, D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jctc.4c01255" target="_blank"><i>Magnetic Properties, Spin-Vibration Couplings, and Temperature Effects in Phenalenyl and Triangulene</i></a> <br>
 J. Chem. Theory Comput. **21**, 1153-1162 (2025)
