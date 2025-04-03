@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 ## 2025
 **140**. A. Cebreiro-Gallardo, D. Casanova <br>
 <a href=" https://doi.org/10.1039/D4CP04511D" target="_blank"><i>Efficient state-interaction approach for the g-matrix analysis in high-spin molecules</i></a> <br>
-Phys. Chem. Chem. Phys **27**, 7093-7103 (2025)
+Phys. Chem. Chem. Phys. **27**, 7093-7103 (2025)
 
 **139**. L. Maierhofer, R. Prieto-Montero, T. Cubiella, A. Díaz-Andrés, N. Morales-Benítez, D. Casanova, V. Martínez-Martínez, M.-D. Chiara, E. Mann, J. L. Chiara <br>
 <a href=" https://doi.org/10.1039/D4TB02782E" target="_blank"><i>A carnitine-based BODIPY photosensitizer</i></a> <br>
