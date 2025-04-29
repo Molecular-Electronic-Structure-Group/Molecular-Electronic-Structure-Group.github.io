@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**141**. A. I. Aranburu, M. Elorza, P. R. G. Valle, A. Pazos, A. Brodolin, P. Herrero-Gómez, J. E. Barcelon, G. Molina-Terriza, F. Monrabal, C. Rogero, F. P. Cossío, J. J. Gómez-Cadenas, C. Tonnelé, Z. Freixa and the NEXT Collaboration<br>
+<a href=" https://doi.org/10.1021/acssensors.4c01892" target="_blank"><i>Iridium-Based Time-Resolved Luminescent Sensor for Ba2+ Detection</i></a> <br>
+ACS Sens. **10**, 2487–2498 (2025)
+
 **140**. A. Cebreiro-Gallardo, D. Casanova <br>
 <a href=" https://doi.org/10.1039/D4CP04511D" target="_blank"><i>Efficient state-interaction approach for the g-matrix analysis in high-spin molecules</i></a> <br>
 Phys. Chem. Chem. Phys. **27**, 7093-7103 (2025)
