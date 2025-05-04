@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**142**. A. Dellai, L. Muccioli, F. Castet and C. Tonnelé<br>
+<a href=" https://doi.org/10.1021/acs.jpcc.5c01204" target="_blank"><i>Second Harmonic Response of Azobenzene Self-Assembled Monolayers: the Effect of Push/Pull Substitution</i></a> <br>
+J. Phys. Chem. C **129**, 8417–8428 (2025)
+
 **141**. A. I. Aranburu, M. Elorza, P. R. G. Valle, A. Pazos, A. Brodolin, P. Herrero-Gómez, J. E. Barcelon, G. Molina-Terriza, F. Monrabal, C. Rogero, F. P. Cossío, J. J. Gómez-Cadenas, C. Tonnelé, Z. Freixa and the NEXT Collaboration<br>
 <a href=" https://doi.org/10.1021/acssensors.4c01892" target="_blank"><i>Iridium-Based Time-Resolved Luminescent Sensor for Ba2+ Detection</i></a> <br>
 ACS Sens. **10**, 2487–2498 (2025)
