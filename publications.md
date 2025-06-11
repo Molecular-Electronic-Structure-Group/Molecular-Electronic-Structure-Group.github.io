@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 ## 2025
 **143**. Y. Yu, A. Izu, J. M. Marín, S Rana, Kunal S. Mali, S. De Feyter, D. Casanova, J. Casado, and J. Liu<br>
 <a href=" https://doi.org/10.1021/jacs.5c06175" target="_blank"><i>Piercing Molecular Graphenes: Precision Synthesis and Photophysics of NBN-Edged Porous Molecular Carbons</i></a> <br>
-J. AM. Chem. Soc. **147**, 20098-20108 (2025)
+J. Am. Chem. Soc. **147**, 20098-20108 (2025)
 
 **142**. A. Dellai, L. Muccioli, F. Castet and C. Tonnelé<br>
 <a href=" https://doi.org/10.1021/acs.jpcc.5c01204" target="_blank"><i>Second Harmonic Response of Azobenzene Self-Assembled Monolayers: the Effect of Push/Pull Substitution</i></a> <br>
