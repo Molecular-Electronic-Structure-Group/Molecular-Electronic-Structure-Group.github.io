@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**144**. G. Ricci, C. Tonnelé, and D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jpclett.5c01024" target="_blank"><i>Optical Addressability of the Arylnitrene Spin Triplet</i></a> <br>
+J. Phys. Chem. Lett. **16**, 5659-5665 (2025)
+
 **143**. Y. Yu, A. Izu, J. M. Marín, S Rana, Kunal S. Mali, S. De Feyter, D. Casanova, J. Casado, and J. Liu<br>
 <a href=" https://doi.org/10.1021/jacs.5c06175" target="_blank"><i>Piercing Molecular Graphenes: Precision Synthesis and Photophysics of NBN-Edged Porous Molecular Carbons</i></a> <br>
 J. Am. Chem. Soc. **147**, 20098-20108 (2025)
