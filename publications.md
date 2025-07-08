@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**145**. A. Cebreiro-Gallardo, and D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jctc.5c00514 " target="_blank"><i>State-Interaction Approach for g-Matrix Calculations in TDDFT: Ground-Excited State Couplings and beyond First-Order Spin–Orbit Effects</i></a> <br>
+J. Chem. Theory Comput. **21**, 6528-6544 (2025)
+
 **144**. G. Ricci, C. Tonnelé, and D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jpclett.5c01024" target="_blank"><i>Optical Addressability of the Arylnitrene Spin Triplet</i></a> <br>
 J. Phys. Chem. Lett. **16**, 5659-5665 (2025)
