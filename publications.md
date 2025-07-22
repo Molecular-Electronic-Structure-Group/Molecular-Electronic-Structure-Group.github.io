@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**146**. Y. Wu, B. Wang, D. Casanova, and O. V. Prezhdo<br>
+<a href=" https://doi.org/10.1021/acs.chemmater.5c01353 " target="_blank"><i>Atomistic Mechanism of Perovskite Grain Boundary Healing by Halide Doping: Machine Learning and Ab Initio Analyses</i></a> <br>
+Chem. Mater. **14**, 5387-5395 (2025)
+
 **145**. A. Cebreiro-Gallardo, and D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jctc.5c00514 " target="_blank"><i>State-Interaction Approach for g-Matrix Calculations in TDDFT: Ground-Excited State Couplings and beyond First-Order Spin–Orbit Effects</i></a> <br>
 J. Chem. Theory Comput. **21**, 6528-6544 (2025)
