@@ -3,14 +3,14 @@ title: "Jose Aarón Rodríguez"
 date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/team/aaron_rodriguez_square.png"
-jobtitle: "Post-doc"
+jobtitle: "Former Post-doc"
 address: "DIPC Building 4"
 email: "aarodjim[at]gmail.com"
 orcid: "https://orcid.org/0000-0002-5604-2643"
 linkedinurl:
 researcherid:
 weight: 5
-promoted: true
+promoted: false
 ---
 
 My PhD thesis is focused on the development of models/methods able to account for strong electron correlations in the ground and excited states of medium and large molecules. Current work is focused on efficient approximations to recover the missing dynamic electron correlation effects by merging wave function methods with DFT. Also, due to their importance for intersystem crossing (ISC), part of the work is dedicated to elucidating the role of spin-orbit coupling (SOC) in systems of interest.
