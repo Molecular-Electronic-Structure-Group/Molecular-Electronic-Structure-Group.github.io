@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:55+10:00
 draft: false
 image: "images/team/gaetano_ricci.jpg"
 jobtitle: "Post-doc"
-address: "DIPC Building 4"
+address: "DIPC Building 1"
 email: "gaetano.ricci[at]dipc.org"
 orcid: "https://orcid.org/0000-0003-0181-2513"
 researchid: 
