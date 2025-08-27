@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**147**. Z. Xu,  J. Owona,  Q. T. Liu,  S. Putwa,  L. Jiang,  K-M. Tong,  D. Hean,  B. O. Patrick,  K. C. Chou,  C. Tonnelé,  F. Castet,  D. Casanova,  M. O. Wolf<br>
+<a href=" https://doi.org/10.1002/adom.202500422 " target="_blank"><i>A New Class of Diarylethene Compounds that Exhibit Turn-On Emission: From Aggregation-Induced Emission to Anti-Kasha Emission</i></a> <br>
+Adv. Optical Mater. **13**, 00422 (2025)
+
 **146**. Y. Wu, B. Wang, D. Casanova, and O. V. Prezhdo<br>
 <a href=" https://doi.org/10.1021/acs.chemmater.5c01353 " target="_blank"><i>Atomistic Mechanism of Perovskite Grain Boundary Healing by Halide Doping: Machine Learning and Ab Initio Analyses</i></a> <br>
 Chem. Mater. **14**, 5387-5395 (2025)
