@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**148**. N. Vaquero-Sabater, A. Carreras, D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jctc.5c00535 " target="_blank"><i>Pruned-ADAPT-VQE: Compacting Molecular Ansätze by Removing Irrelevant Operators</i></a> <br>
+J. Chem. Theory Comput. **21**, 8720-8728 (2025)
+
 **147**. Z. Xu,  J. Owona,  Q. T. Liu,  S. Putwa,  L. Jiang,  K-M. Tong,  D. Hean,  B. O. Patrick,  K. C. Chou,  C. Tonnelé,  F. Castet,  D. Casanova,  M. O. Wolf<br>
 <a href=" https://doi.org/10.1002/adom.202500422 " target="_blank"><i>A New Class of Diarylethene Compounds that Exhibit Turn-On Emission: From Aggregation-Induced Emission to Anti-Kasha Emission</i></a> <br>
 Adv. Opt. Mater. **13**, 00422 (2025)
