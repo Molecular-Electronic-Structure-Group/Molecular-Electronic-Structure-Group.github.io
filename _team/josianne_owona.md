@@ -2,7 +2,7 @@
 title: "Josianne Owona"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/josianne_owona.jpg"
+image: "images/team/josi_owona.jpg"
 jobtitle: "PhD student"
 linkedinurl: 
 orcid:
