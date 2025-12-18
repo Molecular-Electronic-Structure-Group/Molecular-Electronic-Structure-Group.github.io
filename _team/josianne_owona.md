@@ -12,6 +12,6 @@ phone:
 email: "josianne.owona[at]gmail.com"
 weight: 11
 layout: team
-promoted: true
+promoted: false
 ---
 

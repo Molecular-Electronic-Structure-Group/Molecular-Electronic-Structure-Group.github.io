@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2025
+**149**. Janaarthana Babu P. M., D. Casanova<br>
+<a href=" https://doi.org/10.1021/acs.jpca.5c06818 " target="_blank"><i>Assessing Second-Order Perturbative Corrections to Restricted Active Space CI for Valence Excitations in Organic Molecules</i></a> <br>
+J. Phys. Chem. A **129**, 11736-11748 (2025)
+
 **148**. N. Vaquero-Sabater, A. Carreras, D. Casanova<br>
 <a href=" https://doi.org/10.1021/acs.jctc.5c00535 " target="_blank"><i>Pruned-ADAPT-VQE: Compacting Molecular Ansätze by Removing Irrelevant Operators</i></a> <br>
 J. Chem. Theory Comput. **21**, 8720-8728 (2025)
