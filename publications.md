@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
-**150**. A. Manjanath, D. Casanova, R. Sahara, Ryoji, C-P. Hsu<br>
+**150**. A. Manjanath, D. Casanova, R. Sahara, C-P. Hsu<br>
 <a href="https://doi.org/10.1002/jcc.70293" target="_blank"><i>Localized Molecular Orbitals for Single Excitation Theories</i></a> <br>
 J. Comput. Chem. **47**, e70293 (2026)
 
