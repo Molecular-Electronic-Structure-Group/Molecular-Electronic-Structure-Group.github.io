@@ -8,9 +8,13 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**152**. A. Carreras, R. Orús, D. Casanova<br>
+<a href="https://doi.org/10.1039/D5CP03907J" target="_blank"><i>Limitations of quantum hardware for molecular energy estimation using VQE</i></a> <br>
+Phys. Chem. Chem. Phys. **28**, 2834-2846 (2026)
+
 **151**. A. Omist, D. Casanova<br>
 <a href="https://doi.org/10.1021/acs.jctc.5c01904" target="_blank"><i>Spin-Permutation Diabatization: A General Framework for Spin Localization and Exchange Coupling</i></a> <br>
-J. Chem. Theory Comput. **22**,  963-971 (2026)
+J. Chem. Theory Comput. **22**, 963-971 (2026)
 
 **150**. A. Manjanath, D. Casanova, R. Sahara, C-P. Hsu<br>
 <a href="https://doi.org/10.1002/jcc.70293" target="_blank"><i>Localized Molecular Orbitals for Single Excitation Theories</i></a> <br>
