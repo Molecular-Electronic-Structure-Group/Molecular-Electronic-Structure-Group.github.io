@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**153**. A. Rodríguez-Jiménez, J.P. Calupitan, D. Casanova<br>
+<a href="https://doi.org/10.1039/D5QO01343G" target="_blank"><i>Electronic structure origins of radical character in triangular fused acenes: sextet stabilization vs. antiaromaticity release</i></a> <br>
+Org. Chem. Front. **13**, 794-802 (2026)
+
 **152**. A. Carreras, R. Orús, D. Casanova<br>
 <a href="https://doi.org/10.1039/D5CP03907J" target="_blank"><i>Limitations of quantum hardware for molecular energy estimation using VQE</i></a> <br>
 Phys. Chem. Chem. Phys. **28**, 2834-2846 (2026)
