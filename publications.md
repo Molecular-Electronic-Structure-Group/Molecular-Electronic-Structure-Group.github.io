@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 ## 2026
 **154**. J. Owona, S. Goto, L. Truflandier, C. Tonnelé and F. Castet<br>
 <a href="https://doi.org/10.1039/D5CP04030B" target="_blank"><i>Pressure- and aggregation-induced modulation of linear and nonlinear optical properties in a push–pull chromophore: insights from computational modelling</i></a> <br>
-PCCP **28**, 6636-6648 (2026)
+Phys. Chem. Chem. Phys. **28**, 6636-6648 (2026)
 
 **153**. A. Rodríguez-Jiménez, J.P. Calupitan, D. Casanova<br>
 <a href="https://doi.org/10.1039/D5QO01343G" target="_blank"><i>Electronic structure origins of radical character in triangular fused acenes: sextet stabilization vs. antiaromaticity release</i></a> <br>
