@@ -3,7 +3,7 @@ title: "Aitor Diaz Andres"
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/team/aitor_diaz_square.png"
-jobtitle: "PhD student"
+jobtitle: "Post-doc"
 linkedinurl: 
 orcid:
 researchid:

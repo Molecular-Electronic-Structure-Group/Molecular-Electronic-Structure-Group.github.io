@@ -3,7 +3,7 @@ title: "David Casanova"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/david_casanova.jpg"
-jobtitle: "Principal Investigator"
+jobtitle: "Ikerbasque Researcher"
 address: "DIPC Building 4"
 phone: "(943) 01 5719"
 email: "david.casanova[at]dipc.org"
