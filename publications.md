@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**155**. R. J. Hannan, A. M. Vondran, S. Cho, K. M. Hanson, C. Tonnelé, D. Casanova, C. J. Bardeen and A. Bahamonde<br>
+<a href="https://doi.org/10.1039/D6SC00251J" target="_blank"><i>Photochemical reduction of aryl chlorides, bromides, and iodides via ternary EDA complexes with guanidine bases</i></a> <br>
+Chem. Sci. **17**, 8486-8492 (2026)
+
 **154**. J. Owona, S. Goto, L. Truflandier, C. Tonnelé and F. Castet<br>
 <a href="https://doi.org/10.1039/D5CP04030B" target="_blank"><i>Pressure- and aggregation-induced modulation of linear and nonlinear optical properties in a push–pull chromophore: insights from computational modelling</i></a> <br>
 Phys. Chem. Chem. Phys. **28**, 6636-6648 (2026)
