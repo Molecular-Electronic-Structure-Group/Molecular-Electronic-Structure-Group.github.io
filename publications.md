@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**156**. Y. Sun, G. Ricci, M. Monteverde, V. Derkach, T. Chanelière, E. Aldridge, D. Casanova, D. Beljonne, J. E. Anthony and A. D. Chepelianskii<br>
+<a href="https://doi.org/10.1103/7mt2-968k" target="_blank"><i>Spin-Dependent Fluorescence Mediated by Antisymmetric Exchange in Triplet Exciton Pairs</i></a> <br>
+Phys. Rev. Lett. **136**, 216903 (2026)
+
 **155**. R. J. Hannan, A. M. Vondran, S. Cho, K. M. Hanson, C. Tonnelé, D. Casanova, C. J. Bardeen and A. Bahamonde<br>
 <a href="https://doi.org/10.1039/D6SC00251J" target="_blank"><i>Photochemical reduction of aryl chlorides, bromides, and iodides via ternary EDA complexes with guanidine bases</i></a> <br>
 Chem. Sci. **17**, 8486-8492 (2026)
