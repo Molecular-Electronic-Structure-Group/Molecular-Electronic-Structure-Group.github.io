@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**157**. G. Santamaría, F. Siddi, A. Carreras, R. Dettori, M. Simoncelli, C. Melis, D. Casanova and D. Beljonne<br>
+<a href="https://doi.org/10.1021/acs.jctc.6c00412" target="_blank"><i>Anharmonic Effects Revealed by Temperature-Dependent Phonon Lifetimes and Thermal Conductivities in a π-Conjugated Molecular Crystal</i></a> <br>
+J. Chem. Theory Comput. **22**, 5742-5751 (2026)
+
 **156**. Y. Sun, G. Ricci, M. Monteverde, V. Derkach, T. Chanelière, E. Aldridge, D. Casanova, D. Beljonne, J. E. Anthony and A. D. Chepelianskii<br>
 <a href="https://doi.org/10.1103/7mt2-968k" target="_blank"><i>Spin-Dependent Fluorescence Mediated by Antisymmetric Exchange in Triplet Exciton Pairs</i></a> <br>
 Phys. Rev. Lett. **136**, 216903 (2026)
