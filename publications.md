@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**158**. Y. Wu, B. Wang, M. Chaudhary, D. Casanova and O. P. Prezhdo<br>
+<a href="https://doi.org/10.1021/acs.jpclett.6c01666" target="_blank"><i> Efficient Nonadiabatic Molecular Dynamics with Machine Learning Hamiltonian Interpolation </i></a> <br>
+J. Phys. Chem. Lett. **17**, 7328-7335 (2026)
+
 **157**. G. Santamaría, F. Siddi, A. Carreras, R. Dettori, M. Simoncelli, C. Melis, D. Casanova and D. Beljonne<br>
 <a href="https://doi.org/10.1021/acs.jctc.6c00412" target="_blank"><i>Anharmonic Effects Revealed by Temperature-Dependent Phonon Lifetimes and Thermal Conductivities in a π-Conjugated Molecular Crystal</i></a> <br>
 J. Chem. Theory Comput. **22**, 5742-5751 (2026)
