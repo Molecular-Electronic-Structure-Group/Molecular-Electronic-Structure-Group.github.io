@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**159**. S. Chithra, C. Pigot, C. Tonnelé, A. J. Redman, S. Richert, D. Casanova and V. Gray<br>
+<a href="https://doi.org/10.1039/d6sc00259e" target="_blank"><i>Electron transfer from singlet fission dimers: possibilities and limitations </i></a> <br>
+Chem. Sci. **17**, 12970-12980 (2026)
+
 **158**. Y. Wu, B. Wang, M. Chaudhary, D. Casanova and O. P. Prezhdo<br>
 <a href="https://doi.org/10.1021/acs.jpclett.6c01666" target="_blank"><i> Efficient Nonadiabatic Molecular Dynamics with Machine Learning Hamiltonian Interpolation </i></a> <br>
 J. Phys. Chem. Lett. **17**, 7328-7335 (2026)
