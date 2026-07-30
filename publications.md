@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**160**. G. Ricci<br>
+<a href="https://doi.org/10.1007/s00214-026-03323-8" target="_blank"><i>Tuning the spin-component scaling scheme for inverted singlet–triplet (INVEST) systems: improving CC2 and ADC(2) from excited-state energies to topological features </i></a> <br>
+Theor Chem Acc **145**, 71 (2026)
+
 **159**. S. Chithra, C. Pigot, C. Tonnelé, A. J. Redman, S. Richert, D. Casanova and V. Gray<br>
 <a href="https://doi.org/10.1039/d6sc00259e" target="_blank"><i>Electron transfer from singlet fission dimers: possibilities and limitations </i></a> <br>
 Chem. Sci. **17**, 12970-12980 (2026)
