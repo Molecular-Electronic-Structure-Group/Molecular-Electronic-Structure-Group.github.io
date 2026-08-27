@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026
+**162**. K. D. Richards, W. Wang, P. Thielert, J. D. Green, J. M. Hudson, C. Tonnelé, D. Casanova, Y. Olivier, T. J. H. Hele, S. Richert, F. Li, E. W. Evans<br>
+<a href="https://doi.org/10.1021/jacs.6c04090" target="_blank"><i>Open- and Closed-Shell Roles of Sensitizer and Annihilator in Pseudo-Single Component Mixtures for Upconversion</i></a> <br>
+J. Am. Chem. Soc. **148**, 35375-35385 (2026)
+
 **161**. H. Noguchi, C. Climent, K-M. Tong, J. Yuan, C. J. Walsby, D. Casanova, M. O. Wolf<br>
 <a href="https://doi.org/10.1021/jacs.6c09333" target="_blank"><i>Elucidating the Mechanism of Photoinduced Sulfur Monoxide Extrusion from Dianthryl Sulfoxide</i></a> <br>
 J. Am. Chem. Soc. **148**, 34678–34686 (2026)
