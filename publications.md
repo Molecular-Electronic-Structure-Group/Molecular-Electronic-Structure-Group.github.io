@@ -7,7 +7,11 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-## 2026
+## 2026     
+**163**. L. Maierhofer, A. Albaya, R. Prieto-Montero, N. Morales-Benitez, J. Owona, D. Casanova, T. Arbeloa, A. Longarte, R. Montero, C. Tonnelé, V. Martínez-Martínez, E. Mann, J. L. Chiara<br>
+<a href="https://doi.org/10.1002/ceur.7036" target="_blank"><i>Tuning Fluorescence and Singlet Oxygen Generation in Heavy-Atom-Free BODIPYs Through Charge-Transfer State Modulation </i></a> <br>
+ChemistryEurope **4**, e70361 (2026)
+
 **162**. K. D. Richards, W. Wang, P. Thielert, J. D. Green, J. M. Hudson, C. Tonnelé, D. Casanova, Y. Olivier, T. J. H. Hele, S. Richert, F. Li, E. W. Evans<br>
 <a href="https://doi.org/10.1021/jacs.6c04090" target="_blank"><i>Open- and Closed-Shell Roles of Sensitizer and Annihilator in Pseudo-Single Component Mixtures for Upconversion</i></a> <br>
 J. Am. Chem. Soc. **148**, 35375-35385 (2026)
