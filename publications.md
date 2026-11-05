@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026     
+**164**. K. Vinod, C. Tonnelé, A. Rana, T. Amalnadh, P. E. Swathi Krishna, J. C. Roldao, H. Ottosson, D. Casanova, M. Hariharan<br>
+<a href="https://doi.org/10.1039/d6sc00694a" target="_blank"><i>Azulene as an anomaly in triplet-state engineering via bromination and/or carbonylation: internal conversion overrides intersystem crossing</i></a> <br>
+Chem. Sci. **17**, 20446-20453 (2026)
+
 **163**. L. Maierhofer, A. Albaya, R. Prieto-Montero, N. Morales-Benitez, J. Owona, D. Casanova, T. Arbeloa, A. Longarte, R. Montero, C. Tonnelé, V. Martínez-Martínez, E. Mann, J. L. Chiara<br>
 <a href="https://doi.org/10.1002/ceur.70361" target="_blank"><i>Tuning Fluorescence and Singlet Oxygen Generation in Heavy-Atom-Free BODIPYs Through Charge-Transfer State Modulation </i></a> <br>
 ChemistryEurope **4**, e70361 (2026)
