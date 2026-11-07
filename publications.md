@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 2026     
+**165**. W. Zhou, Y.-S. Zhang, G. Ricci, Y. Fu, D. Casanova, J. Casado, S.-D. Jiang, J. Liu<br>
+<a href="https://doi.org/0.1126/sciadv.aef6604" target="_blank"><i>A robust spin-coupled tetraradical via nonalternant design</i></a> <br>
+Sci. Adv. **12**, eaef6604 (2026)
+
 **164**. K. Vinod, C. Tonnelé, A. Rana, T. Amalnadh, P. E. Swathi Krishna, J. C. Roldao, H. Ottosson, D. Casanova, M. Hariharan<br>
 <a href="https://doi.org/10.1039/d6sc00694a" target="_blank"><i>Azulene as an anomaly in triplet-state engineering via bromination and/or carbonylation: internal conversion overrides intersystem crossing</i></a> <br>
 Chem. Sci. **17**, 20446-20453 (2026)
